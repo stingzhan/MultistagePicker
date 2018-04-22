@@ -1,0 +1,4348 @@
+<root>
+    <province name="北京市">
+        <city name="北京市">
+            <district name="东城区" zipcode="1" />
+            <district name="西城区" zipcode="2" />
+            <district name="朝阳区" zipcode="3" />
+            <district name="丰台区" zipcode="4" />
+            <district name="石景山区" zipcode="5" />
+            <district name="海淀区" zipcode="6" />
+            <district name="门头沟区" zipcode="7" />
+            <district name="房山区" zipcode="8" />
+            <district name="通州区" zipcode="9" />
+            <district name="顺义区" zipcode="10" />
+            <district name="昌平区" zipcode="11" />
+            <district name="大兴区" zipcode="12" />
+            <district name="怀柔区" zipcode="13" />
+            <district name="平谷区" zipcode="14" />
+            <district name="密云县" zipcode="15" />
+            <district name="延庆县" zipcode="16" />
+            <district name="其他" zipcode="17" />
+
+        </city>
+    </province>
+    <province name="天津市">
+        <city name="天津市">
+            <district name="和平区" zipcode="18" />
+            <district name="河东区" zipcode="19" />
+            <district name="河西区" zipcode="20" />
+            <district name="南开区" zipcode="21" />
+            <district name="河北区" zipcode="22" />
+            <district name="红桥区" zipcode="23" />
+            <district name="东丽区" zipcode="24" />
+            <district name="西青区" zipcode="25" />
+            <district name="津南区" zipcode="26" />
+            <district name="北辰区" zipcode="27" />
+            <district name="武清区" zipcode="28" />
+            <district name="宝坻区" zipcode="29" />
+            <district name="滨海新区" zipcode="30" />
+            <district name="宁河区" zipcode="31" />
+            <district name="静海区" zipcode="32" />
+            <district name="蓟县" zipcode="33" />
+            <district name="其他" zipcode="34" />
+
+        </city>
+    </province>
+    <province name="河北省">
+        <city name="石家庄市">
+            <district name="长安区" zipcode="36" />
+            <district name="桥西区" zipcode="37" />
+            <district name="新华区" zipcode="38" />
+            <district name="井陉矿区" zipcode="39" />
+            <district name="裕华区" zipcode="40" />
+            <district name="藁城区" zipcode="41" />
+            <district name="鹿泉区" zipcode="42" />
+            <district name="栾城区" zipcode="43" />
+            <district name="井陉县" zipcode="44" />
+            <district name="正定县" zipcode="45" />
+            <district name="行唐县" zipcode="46" />
+            <district name="灵寿县" zipcode="47" />
+            <district name="高邑县" zipcode="48" />
+            <district name="深泽县" zipcode="49" />
+            <district name="赞皇县" zipcode="50" />
+            <district name="无极县" zipcode="51" />
+            <district name="平山县" zipcode="52" />
+            <district name="元氏县" zipcode="53" />
+            <district name="赵县" zipcode="54" />
+            <district name="晋州市" zipcode="55" />
+            <district name="新乐市" zipcode="56" />
+            <district name="其他" zipcode="57" />
+
+        </city>
+        <city name="唐山市">
+            <district name="路南区" zipcode="59" />
+            <district name="路北区" zipcode="60" />
+            <district name="古冶区" zipcode="61" />
+            <district name="开平区" zipcode="62" />
+            <district name="丰南区" zipcode="63" />
+            <district name="丰润区" zipcode="64" />
+            <district name="曹妃甸区" zipcode="65" />
+            <district name="滦县" zipcode="66" />
+            <district name="滦南县" zipcode="67" />
+            <district name="乐亭县" zipcode="68" />
+            <district name="迁西县" zipcode="69" />
+            <district name="玉田县" zipcode="70" />
+            <district name="遵化市" zipcode="71" />
+            <district name="迁安市" zipcode="72" />
+            <district name="其他" zipcode="73" />
+
+        </city>
+        <city name="秦皇岛市">
+            <district name="海港区" zipcode="75" />
+            <district name="山海关区" zipcode="76" />
+            <district name="北戴河区" zipcode="77" />
+            <district name="抚宁区" zipcode="78" />
+            <district name="青龙满族自治县" zipcode="79" />
+            <district name="昌黎县" zipcode="80" />
+            <district name="卢龙县" zipcode="81" />
+            <district name="其他" zipcode="82" />
+
+        </city>
+        <city name="邯郸市">
+            <district name="邯山区" zipcode="84" />
+            <district name="丛台区" zipcode="85" />
+            <district name="复兴区" zipcode="86" />
+            <district name="峰峰矿区" zipcode="87" />
+            <district name="邯郸县" zipcode="88" />
+            <district name="临漳县" zipcode="89" />
+            <district name="成安县" zipcode="90" />
+            <district name="大名县" zipcode="91" />
+            <district name="涉县" zipcode="92" />
+            <district name="磁县" zipcode="93" />
+            <district name="肥乡县" zipcode="94" />
+            <district name="永年县" zipcode="95" />
+            <district name="邱县" zipcode="96" />
+            <district name="鸡泽县" zipcode="97" />
+            <district name="广平县" zipcode="98" />
+            <district name="馆陶县" zipcode="99" />
+            <district name="魏县" zipcode="100" />
+            <district name="曲周县" zipcode="101" />
+            <district name="武安市" zipcode="102" />
+            <district name="其他" zipcode="103" />
+
+        </city>
+        <city name="邢台市">
+            <district name="桥东区" zipcode="105" />
+            <district name="桥西区" zipcode="106" />
+            <district name="邢台县" zipcode="107" />
+            <district name="临城县" zipcode="108" />
+            <district name="内丘县" zipcode="109" />
+            <district name="柏乡县" zipcode="110" />
+            <district name="隆尧县" zipcode="111" />
+            <district name="任县" zipcode="112" />
+            <district name="南和县" zipcode="113" />
+            <district name="宁晋县" zipcode="114" />
+            <district name="巨鹿县" zipcode="115" />
+            <district name="新河县" zipcode="116" />
+            <district name="广宗县" zipcode="117" />
+            <district name="平乡县" zipcode="118" />
+            <district name="威县" zipcode="119" />
+            <district name="清河县" zipcode="120" />
+            <district name="临西县" zipcode="121" />
+            <district name="南宫市" zipcode="122" />
+            <district name="沙河市" zipcode="123" />
+            <district name="其他" zipcode="124" />
+
+        </city>
+        <city name="保定市">
+            <district name="竞秀区" zipcode="126" />
+            <district name="莲池区" zipcode="127" />
+            <district name="满城区" zipcode="128" />
+            <district name="清苑区" zipcode="129" />
+            <district name="徐水区" zipcode="130" />
+            <district name="涞水县" zipcode="131" />
+            <district name="阜平县" zipcode="132" />
+            <district name="定兴县" zipcode="133" />
+            <district name="唐县" zipcode="134" />
+            <district name="高阳县" zipcode="135" />
+            <district name="容城县" zipcode="136" />
+            <district name="涞源县" zipcode="137" />
+            <district name="望都县" zipcode="138" />
+            <district name="安新县" zipcode="139" />
+            <district name="易县" zipcode="140" />
+            <district name="曲阳县" zipcode="141" />
+            <district name="蠡县" zipcode="142" />
+            <district name="顺平县" zipcode="143" />
+            <district name="博野县" zipcode="144" />
+            <district name="雄县" zipcode="145" />
+            <district name="涿州市" zipcode="146" />
+            <district name="安国市" zipcode="147" />
+            <district name="高碑店市" zipcode="148" />
+            <district name="其他" zipcode="149" />
+
+        </city>
+        <city name="张家口市">
+            <district name="桥东区" zipcode="151" />
+            <district name="桥西区" zipcode="152" />
+            <district name="宣化区" zipcode="153" />
+            <district name="下花园区" zipcode="154" />
+            <district name="宣化县" zipcode="155" />
+            <district name="张北县" zipcode="156" />
+            <district name="康保县" zipcode="157" />
+            <district name="沽源县" zipcode="158" />
+            <district name="尚义县" zipcode="159" />
+            <district name="蔚县" zipcode="160" />
+            <district name="阳原县" zipcode="161" />
+            <district name="怀安县" zipcode="162" />
+            <district name="万全县" zipcode="163" />
+            <district name="怀来县" zipcode="164" />
+            <district name="涿鹿县" zipcode="165" />
+            <district name="赤城县" zipcode="166" />
+            <district name="崇礼县" zipcode="167" />
+            <district name="其他" zipcode="168" />
+
+        </city>
+        <city name="承德市">
+            <district name="双桥区" zipcode="170" />
+            <district name="双滦区" zipcode="171" />
+            <district name="鹰手营子矿区" zipcode="172" />
+            <district name="承德县" zipcode="173" />
+            <district name="兴隆县" zipcode="174" />
+            <district name="平泉县" zipcode="175" />
+            <district name="滦平县" zipcode="176" />
+            <district name="隆化县" zipcode="177" />
+            <district name="丰宁满族自治县" zipcode="178" />
+            <district name="宽城满族自治县" zipcode="179" />
+            <district name="围场满族蒙古族自治县" zipcode="180" />
+            <district name="其他" zipcode="181" />
+
+        </city>
+        <city name="沧州市">
+            <district name="新华区" zipcode="183" />
+            <district name="运河区" zipcode="184" />
+            <district name="沧县" zipcode="185" />
+            <district name="青县" zipcode="186" />
+            <district name="东光县" zipcode="187" />
+            <district name="海兴县" zipcode="188" />
+            <district name="盐山县" zipcode="189" />
+            <district name="肃宁县" zipcode="190" />
+            <district name="南皮县" zipcode="191" />
+            <district name="吴桥县" zipcode="192" />
+            <district name="献县" zipcode="193" />
+            <district name="孟村回族自治县" zipcode="194" />
+            <district name="泊头市" zipcode="195" />
+            <district name="任丘市" zipcode="196" />
+            <district name="黄骅市" zipcode="197" />
+            <district name="河间市" zipcode="198" />
+            <district name="其他" zipcode="199" />
+
+        </city>
+        <city name="廊坊市">
+            <district name="安次区" zipcode="201" />
+            <district name="广阳区" zipcode="202" />
+            <district name="固安县" zipcode="203" />
+            <district name="永清县" zipcode="204" />
+            <district name="香河县" zipcode="205" />
+            <district name="大城县" zipcode="206" />
+            <district name="文安县" zipcode="207" />
+            <district name="大厂回族自治县" zipcode="208" />
+            <district name="霸州市" zipcode="209" />
+            <district name="三河市" zipcode="210" />
+            <district name="其他" zipcode="211" />
+
+        </city>
+        <city name="衡水市">
+            <district name="桃城区" zipcode="213" />
+            <district name="枣强县" zipcode="214" />
+            <district name="武邑县" zipcode="215" />
+            <district name="武强县" zipcode="216" />
+            <district name="饶阳县" zipcode="217" />
+            <district name="安平县" zipcode="218" />
+            <district name="故城县" zipcode="219" />
+            <district name="景县" zipcode="220" />
+            <district name="阜城县" zipcode="221" />
+            <district name="冀州市" zipcode="222" />
+            <district name="深州市" zipcode="223" />
+            <district name="其他" zipcode="224" />
+
+        </city>
+        <city name="省直辖县级行政区划">
+            <district name="定州市" zipcode="225" />
+            <district name="辛集市" zipcode="226" />
+            <district name="其他" zipcode="227" />
+
+        </city>
+    </province>
+    <province name="山西省">
+        <city name="太原市">
+            <district name="小店区" zipcode="229" />
+            <district name="迎泽区" zipcode="230" />
+            <district name="杏花岭区" zipcode="231" />
+            <district name="尖草坪区" zipcode="232" />
+            <district name="万柏林区" zipcode="233" />
+            <district name="晋源区" zipcode="234" />
+            <district name="清徐县" zipcode="235" />
+            <district name="阳曲县" zipcode="236" />
+            <district name="娄烦县" zipcode="237" />
+            <district name="古交市" zipcode="238" />
+            <district name="其他" zipcode="239" />
+
+        </city>
+        <city name="大同市">
+            <district name="城区" zipcode="241" />
+            <district name="矿区" zipcode="242" />
+            <district name="南郊区" zipcode="243" />
+            <district name="新荣区" zipcode="244" />
+            <district name="阳高县" zipcode="245" />
+            <district name="天镇县" zipcode="246" />
+            <district name="广灵县" zipcode="247" />
+            <district name="灵丘县" zipcode="248" />
+            <district name="浑源县" zipcode="249" />
+            <district name="左云县" zipcode="250" />
+            <district name="大同县" zipcode="251" />
+            <district name="其他" zipcode="252" />
+
+        </city>
+        <city name="阳泉市">
+            <district name="城区" zipcode="254" />
+            <district name="矿区" zipcode="255" />
+            <district name="郊区" zipcode="256" />
+            <district name="平定县" zipcode="257" />
+            <district name="盂县" zipcode="258" />
+            <district name="其他" zipcode="259" />
+
+        </city>
+        <city name="长治市">
+            <district name="城区" zipcode="261" />
+            <district name="郊区" zipcode="262" />
+            <district name="长治县" zipcode="263" />
+            <district name="襄垣县" zipcode="264" />
+            <district name="屯留县" zipcode="265" />
+            <district name="平顺县" zipcode="266" />
+            <district name="黎城县" zipcode="267" />
+            <district name="壶关县" zipcode="268" />
+            <district name="长子县" zipcode="269" />
+            <district name="武乡县" zipcode="270" />
+            <district name="沁县" zipcode="271" />
+            <district name="沁源县" zipcode="272" />
+            <district name="潞城市" zipcode="273" />
+            <district name="其他" zipcode="274" />
+
+        </city>
+        <city name="晋城市">
+            <district name="城区" zipcode="276" />
+            <district name="沁水县" zipcode="277" />
+            <district name="阳城县" zipcode="278" />
+            <district name="陵川县" zipcode="279" />
+            <district name="泽州县" zipcode="280" />
+            <district name="高平市" zipcode="281" />
+            <district name="其他" zipcode="282" />
+
+        </city>
+        <city name="朔州市">
+            <district name="朔城区" zipcode="284" />
+            <district name="平鲁区" zipcode="285" />
+            <district name="山阴县" zipcode="286" />
+            <district name="应县" zipcode="287" />
+            <district name="右玉县" zipcode="288" />
+            <district name="怀仁县" zipcode="289" />
+            <district name="其他" zipcode="290" />
+
+        </city>
+        <city name="晋中市">
+            <district name="榆次区" zipcode="292" />
+            <district name="榆社县" zipcode="293" />
+            <district name="左权县" zipcode="294" />
+            <district name="和顺县" zipcode="295" />
+            <district name="昔阳县" zipcode="296" />
+            <district name="寿阳县" zipcode="297" />
+            <district name="太谷县" zipcode="298" />
+            <district name="祁县" zipcode="299" />
+            <district name="平遥县" zipcode="300" />
+            <district name="灵石县" zipcode="301" />
+            <district name="介休市" zipcode="302" />
+            <district name="其他" zipcode="303" />
+
+        </city>
+        <city name="运城市">
+            <district name="盐湖区" zipcode="305" />
+            <district name="临猗县" zipcode="306" />
+            <district name="万荣县" zipcode="307" />
+            <district name="闻喜县" zipcode="308" />
+            <district name="稷山县" zipcode="309" />
+            <district name="新绛县" zipcode="310" />
+            <district name="绛县" zipcode="311" />
+            <district name="垣曲县" zipcode="312" />
+            <district name="夏县" zipcode="313" />
+            <district name="平陆县" zipcode="314" />
+            <district name="芮城县" zipcode="315" />
+            <district name="永济市" zipcode="316" />
+            <district name="河津市" zipcode="317" />
+            <district name="其他" zipcode="318" />
+
+        </city>
+        <city name="忻州市">
+            <district name="忻府区" zipcode="320" />
+            <district name="定襄县" zipcode="321" />
+            <district name="五台县" zipcode="322" />
+            <district name="代县" zipcode="323" />
+            <district name="繁峙县" zipcode="324" />
+            <district name="宁武县" zipcode="325" />
+            <district name="静乐县" zipcode="326" />
+            <district name="神池县" zipcode="327" />
+            <district name="五寨县" zipcode="328" />
+            <district name="岢岚县" zipcode="329" />
+            <district name="河曲县" zipcode="330" />
+            <district name="保德县" zipcode="331" />
+            <district name="偏关县" zipcode="332" />
+            <district name="原平市" zipcode="333" />
+            <district name="其他" zipcode="334" />
+
+        </city>
+        <city name="临汾市">
+            <district name="尧都区" zipcode="336" />
+            <district name="曲沃县" zipcode="337" />
+            <district name="翼城县" zipcode="338" />
+            <district name="襄汾县" zipcode="339" />
+            <district name="洪洞县" zipcode="340" />
+            <district name="古县" zipcode="341" />
+            <district name="安泽县" zipcode="342" />
+            <district name="浮山县" zipcode="343" />
+            <district name="吉县" zipcode="344" />
+            <district name="乡宁县" zipcode="345" />
+            <district name="大宁县" zipcode="346" />
+            <district name="隰县" zipcode="347" />
+            <district name="永和县" zipcode="348" />
+            <district name="蒲县" zipcode="349" />
+            <district name="汾西县" zipcode="350" />
+            <district name="侯马市" zipcode="351" />
+            <district name="霍州市" zipcode="352" />
+            <district name="其他" zipcode="353" />
+
+        </city>
+        <city name="吕梁市">
+            <district name="离石区" zipcode="355" />
+            <district name="文水县" zipcode="356" />
+            <district name="交城县" zipcode="357" />
+            <district name="兴县" zipcode="358" />
+            <district name="临县" zipcode="359" />
+            <district name="柳林县" zipcode="360" />
+            <district name="石楼县" zipcode="361" />
+            <district name="岚县" zipcode="362" />
+            <district name="方山县" zipcode="363" />
+            <district name="中阳县" zipcode="364" />
+            <district name="交口县" zipcode="365" />
+            <district name="孝义市" zipcode="366" />
+            <district name="汾阳市" zipcode="367" />
+            <district name="其他" zipcode="368" />
+
+        </city>
+    </province>
+    <province name="内蒙古自治区">
+        <city name="呼和浩特市">
+            <district name="新城区" zipcode="370" />
+            <district name="回民区" zipcode="371" />
+            <district name="玉泉区" zipcode="372" />
+            <district name="赛罕区" zipcode="373" />
+            <district name="土默特左旗" zipcode="374" />
+            <district name="托克托县" zipcode="375" />
+            <district name="和林格尔县" zipcode="376" />
+            <district name="清水河县" zipcode="377" />
+            <district name="武川县" zipcode="378" />
+            <district name="其他" zipcode="379" />
+
+        </city>
+        <city name="包头市">
+            <district name="东河区" zipcode="381" />
+            <district name="昆都仑区" zipcode="382" />
+            <district name="青山区" zipcode="383" />
+            <district name="石拐区" zipcode="384" />
+            <district name="白云鄂博矿区" zipcode="385" />
+            <district name="九原区" zipcode="386" />
+            <district name="土默特右旗" zipcode="387" />
+            <district name="固阳县" zipcode="388" />
+            <district name="达尔罕茂明安联合旗" zipcode="389" />
+            <district name="其他" zipcode="390" />
+
+        </city>
+        <city name="乌海市">
+            <district name="海勃湾区" zipcode="392" />
+            <district name="海南区" zipcode="393" />
+            <district name="乌达区" zipcode="394" />
+            <district name="其他" zipcode="395" />
+
+        </city>
+        <city name="赤峰市">
+            <district name="红山区" zipcode="397" />
+            <district name="元宝山区" zipcode="398" />
+            <district name="松山区" zipcode="399" />
+            <district name="阿鲁科尔沁旗" zipcode="400" />
+            <district name="巴林左旗" zipcode="401" />
+            <district name="巴林右旗" zipcode="402" />
+            <district name="林西县" zipcode="403" />
+            <district name="克什克腾旗" zipcode="404" />
+            <district name="翁牛特旗" zipcode="405" />
+            <district name="喀喇沁旗" zipcode="406" />
+            <district name="宁城县" zipcode="407" />
+            <district name="敖汉旗" zipcode="408" />
+            <district name="其他" zipcode="409" />
+
+        </city>
+        <city name="通辽市">
+            <district name="科尔沁区" zipcode="411" />
+            <district name="科尔沁左翼中旗" zipcode="412" />
+            <district name="科尔沁左翼后旗" zipcode="413" />
+            <district name="开鲁县" zipcode="414" />
+            <district name="库伦旗" zipcode="415" />
+            <district name="奈曼旗" zipcode="416" />
+            <district name="扎鲁特旗" zipcode="417" />
+            <district name="霍林郭勒市" zipcode="418" />
+            <district name="其他" zipcode="419" />
+
+        </city>
+        <city name="鄂尔多斯市">
+            <district name="东胜区" zipcode="421" />
+            <district name="达拉特旗" zipcode="422" />
+            <district name="准格尔旗" zipcode="423" />
+            <district name="鄂托克前旗" zipcode="424" />
+            <district name="鄂托克旗" zipcode="425" />
+            <district name="杭锦旗" zipcode="426" />
+            <district name="乌审旗" zipcode="427" />
+            <district name="伊金霍洛旗" zipcode="428" />
+            <district name="其他" zipcode="429" />
+
+        </city>
+        <city name="呼伦贝尔市">
+            <district name="海拉尔区" zipcode="431" />
+            <district name="扎赉诺尔区" zipcode="432" />
+            <district name="阿荣旗" zipcode="433" />
+            <district name="莫力达瓦达斡尔族自治旗" zipcode="434" />
+            <district name="鄂伦春自治旗" zipcode="435" />
+            <district name="鄂温克族自治旗" zipcode="436" />
+            <district name="陈巴尔虎旗" zipcode="437" />
+            <district name="新巴尔虎左旗" zipcode="438" />
+            <district name="新巴尔虎右旗" zipcode="439" />
+            <district name="满洲里市" zipcode="440" />
+            <district name="牙克石市" zipcode="441" />
+            <district name="扎兰屯市" zipcode="442" />
+            <district name="额尔古纳市" zipcode="443" />
+            <district name="根河市" zipcode="444" />
+            <district name="其他" zipcode="445" />
+
+        </city>
+        <city name="巴彦淖尔市">
+            <district name="临河区" zipcode="447" />
+            <district name="五原县" zipcode="448" />
+            <district name="磴口县" zipcode="449" />
+            <district name="乌拉特前旗" zipcode="450" />
+            <district name="乌拉特中旗" zipcode="451" />
+            <district name="乌拉特后旗" zipcode="452" />
+            <district name="杭锦后旗" zipcode="453" />
+            <district name="其他" zipcode="454" />
+
+        </city>
+        <city name="乌兰察布市">
+            <district name="集宁区" zipcode="456" />
+            <district name="卓资县" zipcode="457" />
+            <district name="化德县" zipcode="458" />
+            <district name="商都县" zipcode="459" />
+            <district name="兴和县" zipcode="460" />
+            <district name="凉城县" zipcode="461" />
+            <district name="察哈尔右翼前旗" zipcode="462" />
+            <district name="察哈尔右翼中旗" zipcode="463" />
+            <district name="察哈尔右翼后旗" zipcode="464" />
+            <district name="四子王旗" zipcode="465" />
+            <district name="丰镇市" zipcode="466" />
+            <district name="其他" zipcode="467" />
+
+        </city>
+        <city name="兴安盟">
+            <district name="乌兰浩特市" zipcode="468" />
+            <district name="阿尔山市" zipcode="469" />
+            <district name="科尔沁右翼前旗" zipcode="470" />
+            <district name="科尔沁右翼中旗" zipcode="471" />
+            <district name="扎赉特旗" zipcode="472" />
+            <district name="突泉县" zipcode="473" />
+            <district name="其他" zipcode="474" />
+
+        </city>
+        <city name="锡林郭勒盟">
+            <district name="二连浩特市" zipcode="475" />
+            <district name="锡林浩特市" zipcode="476" />
+            <district name="阿巴嘎旗" zipcode="477" />
+            <district name="苏尼特左旗" zipcode="478" />
+            <district name="苏尼特右旗" zipcode="479" />
+            <district name="东乌珠穆沁旗" zipcode="480" />
+            <district name="西乌珠穆沁旗" zipcode="481" />
+            <district name="太仆寺旗" zipcode="482" />
+            <district name="镶黄旗" zipcode="483" />
+            <district name="正镶白旗" zipcode="484" />
+            <district name="正蓝旗" zipcode="485" />
+            <district name="多伦县" zipcode="486" />
+            <district name="其他" zipcode="487" />
+
+        </city>
+        <city name="阿拉善盟">
+            <district name="阿拉善左旗" zipcode="488" />
+            <district name="阿拉善右旗" zipcode="489" />
+            <district name="额济纳旗" zipcode="490" />
+            <district name="其他" zipcode="491" />
+
+        </city>
+    </province>
+    <province name="辽宁省">
+        <city name="沈阳市">
+            <district name="和平区" zipcode="493" />
+            <district name="沈河区" zipcode="494" />
+            <district name="大东区" zipcode="495" />
+            <district name="皇姑区" zipcode="496" />
+            <district name="铁西区" zipcode="497" />
+            <district name="苏家屯区" zipcode="498" />
+            <district name="浑南区" zipcode="499" />
+            <district name="沈北新区" zipcode="500" />
+            <district name="于洪区" zipcode="501" />
+            <district name="辽中县" zipcode="502" />
+            <district name="康平县" zipcode="503" />
+            <district name="法库县" zipcode="504" />
+            <district name="新民市" zipcode="505" />
+            <district name="其他" zipcode="506" />
+
+        </city>
+        <city name="大连市">
+            <district name="中山区" zipcode="508" />
+            <district name="西岗区" zipcode="509" />
+            <district name="沙河口区" zipcode="510" />
+            <district name="甘井子区" zipcode="511" />
+            <district name="旅顺口区" zipcode="512" />
+            <district name="金州区" zipcode="513" />
+            <district name="长海县" zipcode="514" />
+            <district name="瓦房店市" zipcode="515" />
+            <district name="普兰店市" zipcode="516" />
+            <district name="庄河市" zipcode="517" />
+            <district name="其他" zipcode="518" />
+
+        </city>
+        <city name="鞍山市">
+            <district name="铁东区" zipcode="520" />
+            <district name="铁西区" zipcode="521" />
+            <district name="立山区" zipcode="522" />
+            <district name="千山区" zipcode="523" />
+            <district name="台安县" zipcode="524" />
+            <district name="岫岩满族自治县" zipcode="525" />
+            <district name="海城市" zipcode="526" />
+            <district name="其他" zipcode="527" />
+
+        </city>
+        <city name="抚顺市">
+            <district name="新抚区" zipcode="529" />
+            <district name="东洲区" zipcode="530" />
+            <district name="望花区" zipcode="531" />
+            <district name="顺城区" zipcode="532" />
+            <district name="抚顺县" zipcode="533" />
+            <district name="新宾满族自治县" zipcode="534" />
+            <district name="清原满族自治县" zipcode="535" />
+            <district name="其他" zipcode="536" />
+
+        </city>
+        <city name="本溪市">
+            <district name="平山区" zipcode="538" />
+            <district name="溪湖区" zipcode="539" />
+            <district name="明山区" zipcode="540" />
+            <district name="南芬区" zipcode="541" />
+            <district name="本溪满族自治县" zipcode="542" />
+            <district name="桓仁满族自治县" zipcode="543" />
+            <district name="其他" zipcode="544" />
+
+        </city>
+        <city name="丹东市">
+            <district name="元宝区" zipcode="546" />
+            <district name="振兴区" zipcode="547" />
+            <district name="振安区" zipcode="548" />
+            <district name="宽甸满族自治县" zipcode="549" />
+            <district name="东港市" zipcode="550" />
+            <district name="凤城市" zipcode="551" />
+            <district name="其他" zipcode="552" />
+
+        </city>
+        <city name="锦州市">
+            <district name="古塔区" zipcode="554" />
+            <district name="凌河区" zipcode="555" />
+            <district name="太和区" zipcode="556" />
+            <district name="黑山县" zipcode="557" />
+            <district name="义县" zipcode="558" />
+            <district name="凌海市" zipcode="559" />
+            <district name="北镇市" zipcode="560" />
+            <district name="其他" zipcode="561" />
+
+        </city>
+        <city name="营口市">
+            <district name="站前区" zipcode="563" />
+            <district name="西市区" zipcode="564" />
+            <district name="鲅鱼圈区" zipcode="565" />
+            <district name="老边区" zipcode="566" />
+            <district name="盖州市" zipcode="567" />
+            <district name="大石桥市" zipcode="568" />
+            <district name="其他" zipcode="569" />
+
+        </city>
+        <city name="阜新市">
+            <district name="海州区" zipcode="571" />
+            <district name="新邱区" zipcode="572" />
+            <district name="太平区" zipcode="573" />
+            <district name="清河门区" zipcode="574" />
+            <district name="细河区" zipcode="575" />
+            <district name="阜新蒙古族自治县" zipcode="576" />
+            <district name="彰武县" zipcode="577" />
+            <district name="其他" zipcode="578" />
+
+        </city>
+        <city name="辽阳市">
+            <district name="白塔区" zipcode="580" />
+            <district name="文圣区" zipcode="581" />
+            <district name="宏伟区" zipcode="582" />
+            <district name="弓长岭区" zipcode="583" />
+            <district name="太子河区" zipcode="584" />
+            <district name="辽阳县" zipcode="585" />
+            <district name="灯塔市" zipcode="586" />
+            <district name="其他" zipcode="587" />
+
+        </city>
+        <city name="盘锦市">
+            <district name="双台子区" zipcode="589" />
+            <district name="兴隆台区" zipcode="590" />
+            <district name="大洼县" zipcode="591" />
+            <district name="盘山县" zipcode="592" />
+            <district name="其他" zipcode="593" />
+
+        </city>
+        <city name="铁岭市">
+            <district name="银州区" zipcode="595" />
+            <district name="清河区" zipcode="596" />
+            <district name="铁岭县" zipcode="597" />
+            <district name="西丰县" zipcode="598" />
+            <district name="昌图县" zipcode="599" />
+            <district name="调兵山市" zipcode="600" />
+            <district name="开原市" zipcode="601" />
+            <district name="其他" zipcode="602" />
+
+        </city>
+        <city name="朝阳市">
+            <district name="双塔区" zipcode="604" />
+            <district name="龙城区" zipcode="605" />
+            <district name="朝阳县" zipcode="606" />
+            <district name="建平县" zipcode="607" />
+            <district name="喀喇沁左翼蒙古族自治县" zipcode="608" />
+            <district name="北票市" zipcode="609" />
+            <district name="凌源市" zipcode="610" />
+            <district name="其他" zipcode="611" />
+
+        </city>
+        <city name="葫芦岛市">
+            <district name="连山区" zipcode="613" />
+            <district name="龙港区" zipcode="614" />
+            <district name="南票区" zipcode="615" />
+            <district name="绥中县" zipcode="616" />
+            <district name="建昌县" zipcode="617" />
+            <district name="兴城市" zipcode="618" />
+            <district name="其他" zipcode="619" />
+
+        </city>
+    </province>
+    <province name="吉林省">
+        <city name="长春市">
+            <district name="南关区" zipcode="621" />
+            <district name="宽城区" zipcode="622" />
+            <district name="朝阳区" zipcode="623" />
+            <district name="二道区" zipcode="624" />
+            <district name="绿园区" zipcode="625" />
+            <district name="双阳区" zipcode="626" />
+            <district name="九台区" zipcode="627" />
+            <district name="农安县" zipcode="628" />
+            <district name="榆树市" zipcode="629" />
+            <district name="德惠市" zipcode="630" />
+            <district name="其他" zipcode="631" />
+
+        </city>
+        <city name="吉林市">
+            <district name="昌邑区" zipcode="633" />
+            <district name="龙潭区" zipcode="634" />
+            <district name="船营区" zipcode="635" />
+            <district name="丰满区" zipcode="636" />
+            <district name="永吉县" zipcode="637" />
+            <district name="蛟河市" zipcode="638" />
+            <district name="桦甸市" zipcode="639" />
+            <district name="舒兰市" zipcode="640" />
+            <district name="磐石市" zipcode="641" />
+            <district name="其他" zipcode="642" />
+
+        </city>
+        <city name="四平市">
+            <district name="铁西区" zipcode="644" />
+            <district name="铁东区" zipcode="645" />
+            <district name="梨树县" zipcode="646" />
+            <district name="伊通满族自治县" zipcode="647" />
+            <district name="公主岭市" zipcode="648" />
+            <district name="双辽市" zipcode="649" />
+            <district name="其他" zipcode="650" />
+
+        </city>
+        <city name="辽源市">
+            <district name="龙山区" zipcode="652" />
+            <district name="西安区" zipcode="653" />
+            <district name="东丰县" zipcode="654" />
+            <district name="东辽县" zipcode="655" />
+            <district name="其他" zipcode="656" />
+
+        </city>
+        <city name="通化市">
+            <district name="东昌区" zipcode="658" />
+            <district name="二道江区" zipcode="659" />
+            <district name="通化县" zipcode="660" />
+            <district name="辉南县" zipcode="661" />
+            <district name="柳河县" zipcode="662" />
+            <district name="梅河口市" zipcode="663" />
+            <district name="集安市" zipcode="664" />
+            <district name="其他" zipcode="665" />
+
+        </city>
+        <city name="白山市">
+            <district name="浑江区" zipcode="667" />
+            <district name="江源区" zipcode="668" />
+            <district name="抚松县" zipcode="669" />
+            <district name="靖宇县" zipcode="670" />
+            <district name="长白朝鲜族自治县" zipcode="671" />
+            <district name="临江市" zipcode="672" />
+            <district name="其他" zipcode="673" />
+
+        </city>
+        <city name="松原市">
+            <district name="宁江区" zipcode="675" />
+            <district name="前郭尔罗斯蒙古族自治县" zipcode="676" />
+            <district name="长岭县" zipcode="677" />
+            <district name="乾安县" zipcode="678" />
+            <district name="扶余市" zipcode="679" />
+            <district name="其他" zipcode="680" />
+
+        </city>
+        <city name="白城市">
+            <district name="洮北区" zipcode="682" />
+            <district name="镇赉县" zipcode="683" />
+            <district name="通榆县" zipcode="684" />
+            <district name="洮南市" zipcode="685" />
+            <district name="大安市" zipcode="686" />
+            <district name="其他" zipcode="687" />
+
+        </city>
+        <city name="延边朝鲜族自治州">
+            <district name="延吉市" zipcode="688" />
+            <district name="图们市" zipcode="689" />
+            <district name="敦化市" zipcode="690" />
+            <district name="珲春市" zipcode="691" />
+            <district name="龙井市" zipcode="692" />
+            <district name="和龙市" zipcode="693" />
+            <district name="汪清县" zipcode="694" />
+            <district name="安图县" zipcode="695" />
+            <district name="其他" zipcode="696" />
+
+        </city>
+    </province>
+    <province name="黑龙江省">
+        <city name="哈尔滨市">
+            <district name="道里区" zipcode="698" />
+            <district name="南岗区" zipcode="699" />
+            <district name="道外区" zipcode="700" />
+            <district name="平房区" zipcode="701" />
+            <district name="松北区" zipcode="702" />
+            <district name="香坊区" zipcode="703" />
+            <district name="呼兰区" zipcode="704" />
+            <district name="阿城区" zipcode="705" />
+            <district name="双城区" zipcode="706" />
+            <district name="依兰县" zipcode="707" />
+            <district name="方正县" zipcode="708" />
+            <district name="宾县" zipcode="709" />
+            <district name="巴彦县" zipcode="710" />
+            <district name="木兰县" zipcode="711" />
+            <district name="通河县" zipcode="712" />
+            <district name="延寿县" zipcode="713" />
+            <district name="尚志市" zipcode="714" />
+            <district name="五常市" zipcode="715" />
+            <district name="其他" zipcode="716" />
+
+        </city>
+        <city name="齐齐哈尔市">
+            <district name="龙沙区" zipcode="718" />
+            <district name="建华区" zipcode="719" />
+            <district name="铁锋区" zipcode="720" />
+            <district name="昂昂溪区" zipcode="721" />
+            <district name="富拉尔基区" zipcode="722" />
+            <district name="碾子山区" zipcode="723" />
+            <district name="梅里斯达斡尔族区" zipcode="724" />
+            <district name="龙江县" zipcode="725" />
+            <district name="依安县" zipcode="726" />
+            <district name="泰来县" zipcode="727" />
+            <district name="甘南县" zipcode="728" />
+            <district name="富裕县" zipcode="729" />
+            <district name="克山县" zipcode="730" />
+            <district name="克东县" zipcode="731" />
+            <district name="拜泉县" zipcode="732" />
+            <district name="讷河市" zipcode="733" />
+            <district name="其他" zipcode="734" />
+
+        </city>
+        <city name="鸡西市">
+            <district name="鸡冠区" zipcode="736" />
+            <district name="恒山区" zipcode="737" />
+            <district name="滴道区" zipcode="738" />
+            <district name="梨树区" zipcode="739" />
+            <district name="城子河区" zipcode="740" />
+            <district name="麻山区" zipcode="741" />
+            <district name="鸡东县" zipcode="742" />
+            <district name="虎林市" zipcode="743" />
+            <district name="密山市" zipcode="744" />
+            <district name="其他" zipcode="745" />
+
+        </city>
+        <city name="鹤岗市">
+            <district name="向阳区" zipcode="747" />
+            <district name="工农区" zipcode="748" />
+            <district name="南山区" zipcode="749" />
+            <district name="兴安区" zipcode="750" />
+            <district name="东山区" zipcode="751" />
+            <district name="兴山区" zipcode="752" />
+            <district name="萝北县" zipcode="753" />
+            <district name="绥滨县" zipcode="754" />
+            <district name="其他" zipcode="755" />
+
+        </city>
+        <city name="双鸭山市">
+            <district name="尖山区" zipcode="757" />
+            <district name="岭东区" zipcode="758" />
+            <district name="四方台区" zipcode="759" />
+            <district name="宝山区" zipcode="760" />
+            <district name="集贤县" zipcode="761" />
+            <district name="友谊县" zipcode="762" />
+            <district name="宝清县" zipcode="763" />
+            <district name="饶河县" zipcode="764" />
+            <district name="其他" zipcode="765" />
+
+        </city>
+        <city name="大庆市">
+            <district name="萨尔图区" zipcode="767" />
+            <district name="龙凤区" zipcode="768" />
+            <district name="让胡路区" zipcode="769" />
+            <district name="红岗区" zipcode="770" />
+            <district name="大同区" zipcode="771" />
+            <district name="肇州县" zipcode="772" />
+            <district name="肇源县" zipcode="773" />
+            <district name="林甸县" zipcode="774" />
+            <district name="杜尔伯特蒙古族自治县" zipcode="775" />
+            <district name="其他" zipcode="776" />
+
+        </city>
+        <city name="伊春市">
+            <district name="伊春区" zipcode="778" />
+            <district name="南岔区" zipcode="779" />
+            <district name="友好区" zipcode="780" />
+            <district name="西林区" zipcode="781" />
+            <district name="翠峦区" zipcode="782" />
+            <district name="新青区" zipcode="783" />
+            <district name="美溪区" zipcode="784" />
+            <district name="金山屯区" zipcode="785" />
+            <district name="五营区" zipcode="786" />
+            <district name="乌马河区" zipcode="787" />
+            <district name="汤旺河区" zipcode="788" />
+            <district name="带岭区" zipcode="789" />
+            <district name="乌伊岭区" zipcode="790" />
+            <district name="红星区" zipcode="791" />
+            <district name="上甘岭区" zipcode="792" />
+            <district name="嘉荫县" zipcode="793" />
+            <district name="铁力市" zipcode="794" />
+            <district name="其他" zipcode="795" />
+
+        </city>
+        <city name="佳木斯市">
+            <district name="向阳区" zipcode="797" />
+            <district name="前进区" zipcode="798" />
+            <district name="东风区" zipcode="799" />
+            <district name="郊区" zipcode="800" />
+            <district name="桦南县" zipcode="801" />
+            <district name="桦川县" zipcode="802" />
+            <district name="汤原县" zipcode="803" />
+            <district name="抚远县" zipcode="804" />
+            <district name="同江市" zipcode="805" />
+            <district name="富锦市" zipcode="806" />
+            <district name="其他" zipcode="807" />
+
+        </city>
+        <city name="七台河市">
+            <district name="新兴区" zipcode="809" />
+            <district name="桃山区" zipcode="810" />
+            <district name="茄子河区" zipcode="811" />
+            <district name="勃利县" zipcode="812" />
+            <district name="其他" zipcode="813" />
+
+        </city>
+        <city name="牡丹江市">
+            <district name="东安区" zipcode="815" />
+            <district name="阳明区" zipcode="816" />
+            <district name="爱民区" zipcode="817" />
+            <district name="西安区" zipcode="818" />
+            <district name="东宁县" zipcode="819" />
+            <district name="林口县" zipcode="820" />
+            <district name="绥芬河市" zipcode="821" />
+            <district name="海林市" zipcode="822" />
+            <district name="宁安市" zipcode="823" />
+            <district name="穆棱市" zipcode="824" />
+            <district name="其他" zipcode="825" />
+
+        </city>
+        <city name="黑河市">
+            <district name="爱辉区" zipcode="827" />
+            <district name="嫩江县" zipcode="828" />
+            <district name="逊克县" zipcode="829" />
+            <district name="孙吴县" zipcode="830" />
+            <district name="北安市" zipcode="831" />
+            <district name="五大连池市" zipcode="832" />
+            <district name="其他" zipcode="833" />
+
+        </city>
+        <city name="绥化市">
+            <district name="北林区" zipcode="835" />
+            <district name="望奎县" zipcode="836" />
+            <district name="兰西县" zipcode="837" />
+            <district name="青冈县" zipcode="838" />
+            <district name="庆安县" zipcode="839" />
+            <district name="明水县" zipcode="840" />
+            <district name="绥棱县" zipcode="841" />
+            <district name="安达市" zipcode="842" />
+            <district name="肇东市" zipcode="843" />
+            <district name="海伦市" zipcode="844" />
+            <district name="其他" zipcode="845" />
+
+        </city>
+        <city name="大兴安岭地区">
+            <district name="呼玛县" zipcode="846" />
+            <district name="塔河县" zipcode="847" />
+            <district name="漠河县" zipcode="848" />
+            <district name="其他" zipcode="849" />
+
+        </city>
+    </province>
+    <province name="上海市">
+        <city name="上海市">
+            <district name="黄浦区" zipcode="850" />
+            <district name="徐汇区" zipcode="851" />
+            <district name="长宁区" zipcode="852" />
+            <district name="静安区" zipcode="853" />
+            <district name="普陀区" zipcode="854" />
+            <district name="闸北区" zipcode="855" />
+            <district name="虹口区" zipcode="856" />
+            <district name="杨浦区" zipcode="857" />
+            <district name="闵行区" zipcode="858" />
+            <district name="宝山区" zipcode="859" />
+            <district name="嘉定区" zipcode="860" />
+            <district name="浦东新区" zipcode="861" />
+            <district name="金山区" zipcode="862" />
+            <district name="松江区" zipcode="863" />
+            <district name="青浦区" zipcode="864" />
+            <district name="奉贤区" zipcode="865" />
+            <district name="崇明县" zipcode="866" />
+            <district name="其他" zipcode="867" />
+
+        </city>
+    </province>
+    <province name="江苏省">
+        <city name="南京市">
+            <district name="玄武区" zipcode="869" />
+            <district name="秦淮区" zipcode="870" />
+            <district name="建邺区" zipcode="871" />
+            <district name="鼓楼区" zipcode="872" />
+            <district name="浦口区" zipcode="873" />
+            <district name="栖霞区" zipcode="874" />
+            <district name="雨花台区" zipcode="875" />
+            <district name="江宁区" zipcode="876" />
+            <district name="六合区" zipcode="877" />
+            <district name="溧水区" zipcode="878" />
+            <district name="高淳区" zipcode="879" />
+            <district name="其他" zipcode="880" />
+
+        </city>
+        <city name="无锡市">
+            <district name="崇安区" zipcode="882" />
+            <district name="南长区" zipcode="883" />
+            <district name="北塘区" zipcode="884" />
+            <district name="锡山区" zipcode="885" />
+            <district name="惠山区" zipcode="886" />
+            <district name="滨湖区" zipcode="887" />
+            <district name="江阴市" zipcode="888" />
+            <district name="宜兴市" zipcode="889" />
+            <district name="其他" zipcode="890" />
+
+        </city>
+        <city name="徐州市">
+            <district name="鼓楼区" zipcode="892" />
+            <district name="云龙区" zipcode="893" />
+            <district name="贾汪区" zipcode="894" />
+            <district name="泉山区" zipcode="895" />
+            <district name="铜山区" zipcode="896" />
+            <district name="丰县" zipcode="897" />
+            <district name="沛县" zipcode="898" />
+            <district name="睢宁县" zipcode="899" />
+            <district name="新沂市" zipcode="900" />
+            <district name="邳州市" zipcode="901" />
+            <district name="其他" zipcode="902" />
+
+        </city>
+        <city name="常州市">
+            <district name="天宁区" zipcode="904" />
+            <district name="钟楼区" zipcode="905" />
+            <district name="新北区" zipcode="906" />
+            <district name="武进区" zipcode="907" />
+            <district name="金坛区" zipcode="908" />
+            <district name="溧阳市" zipcode="909" />
+            <district name="其他" zipcode="910" />
+
+        </city>
+        <city name="苏州市">
+            <district name="虎丘区" zipcode="912" />
+            <district name="吴中区" zipcode="913" />
+            <district name="相城区" zipcode="914" />
+            <district name="姑苏区" zipcode="915" />
+            <district name="吴江区" zipcode="916" />
+            <district name="常熟市" zipcode="917" />
+            <district name="张家港市" zipcode="918" />
+            <district name="昆山市" zipcode="919" />
+            <district name="太仓市" zipcode="920" />
+            <district name="其他" zipcode="921" />
+
+        </city>
+        <city name="南通市">
+            <district name="崇川区" zipcode="923" />
+            <district name="港闸区" zipcode="924" />
+            <district name="通州区" zipcode="925" />
+            <district name="海安县" zipcode="926" />
+            <district name="如东县" zipcode="927" />
+            <district name="启东市" zipcode="928" />
+            <district name="如皋市" zipcode="929" />
+            <district name="海门市" zipcode="930" />
+            <district name="其他" zipcode="931" />
+
+        </city>
+        <city name="连云港市">
+            <district name="连云区" zipcode="933" />
+            <district name="海州区" zipcode="934" />
+            <district name="赣榆区" zipcode="935" />
+            <district name="东海县" zipcode="936" />
+            <district name="灌云县" zipcode="937" />
+            <district name="灌南县" zipcode="938" />
+            <district name="其他" zipcode="939" />
+
+        </city>
+        <city name="淮安市">
+            <district name="清河区" zipcode="941" />
+            <district name="淮安区" zipcode="942" />
+            <district name="淮阴区" zipcode="943" />
+            <district name="清浦区" zipcode="944" />
+            <district name="涟水县" zipcode="945" />
+            <district name="洪泽县" zipcode="946" />
+            <district name="盱眙县" zipcode="947" />
+            <district name="金湖县" zipcode="948" />
+            <district name="其他" zipcode="949" />
+
+        </city>
+        <city name="盐城市">
+            <district name="亭湖区" zipcode="951" />
+            <district name="盐都区" zipcode="952" />
+            <district name="大丰区" zipcode="953" />
+            <district name="响水县" zipcode="954" />
+            <district name="滨海县" zipcode="955" />
+            <district name="阜宁县" zipcode="956" />
+            <district name="射阳县" zipcode="957" />
+            <district name="建湖县" zipcode="958" />
+            <district name="东台市" zipcode="959" />
+            <district name="其他" zipcode="960" />
+
+        </city>
+        <city name="扬州市">
+            <district name="广陵区" zipcode="962" />
+            <district name="邗江区" zipcode="963" />
+            <district name="江都区" zipcode="964" />
+            <district name="宝应县" zipcode="965" />
+            <district name="仪征市" zipcode="966" />
+            <district name="高邮市" zipcode="967" />
+            <district name="其他" zipcode="968" />
+
+        </city>
+        <city name="镇江市">
+            <district name="京口区" zipcode="970" />
+            <district name="润州区" zipcode="971" />
+            <district name="丹徒区" zipcode="972" />
+            <district name="丹阳市" zipcode="973" />
+            <district name="扬中市" zipcode="974" />
+            <district name="句容市" zipcode="975" />
+            <district name="其他" zipcode="976" />
+
+        </city>
+        <city name="泰州市">
+            <district name="海陵区" zipcode="978" />
+            <district name="高港区" zipcode="979" />
+            <district name="姜堰区" zipcode="980" />
+            <district name="兴化市" zipcode="981" />
+            <district name="靖江市" zipcode="982" />
+            <district name="泰兴市" zipcode="983" />
+            <district name="其他" zipcode="984" />
+
+        </city>
+        <city name="宿迁市">
+            <district name="宿城区" zipcode="986" />
+            <district name="宿豫区" zipcode="987" />
+            <district name="沭阳县" zipcode="988" />
+            <district name="泗阳县" zipcode="989" />
+            <district name="泗洪县" zipcode="990" />
+            <district name="其他" zipcode="991" />
+
+        </city>
+    </province>
+    <province name="浙江省">
+        <city name="杭州市">
+            <district name="上城区" zipcode="993" />
+            <district name="下城区" zipcode="994" />
+            <district name="江干区" zipcode="995" />
+            <district name="拱墅区" zipcode="996" />
+            <district name="西湖区" zipcode="997" />
+            <district name="滨江区" zipcode="998" />
+            <district name="萧山区" zipcode="999" />
+            <district name="余杭区" zipcode="1000" />
+            <district name="富阳区" zipcode="1001" />
+            <district name="桐庐县" zipcode="1002" />
+            <district name="淳安县" zipcode="1003" />
+            <district name="建德市" zipcode="1004" />
+            <district name="临安市" zipcode="1005" />
+            <district name="其他" zipcode="1006" />
+
+        </city>
+        <city name="宁波市">
+            <district name="海曙区" zipcode="1008" />
+            <district name="江东区" zipcode="1009" />
+            <district name="江北区" zipcode="1010" />
+            <district name="北仑区" zipcode="1011" />
+            <district name="镇海区" zipcode="1012" />
+            <district name="鄞州区" zipcode="1013" />
+            <district name="象山县" zipcode="1014" />
+            <district name="宁海县" zipcode="1015" />
+            <district name="余姚市" zipcode="1016" />
+            <district name="慈溪市" zipcode="1017" />
+            <district name="奉化市" zipcode="1018" />
+            <district name="其他" zipcode="1019" />
+
+        </city>
+        <city name="温州市">
+            <district name="鹿城区" zipcode="1021" />
+            <district name="龙湾区" zipcode="1022" />
+            <district name="瓯海区" zipcode="1023" />
+            <district name="洞头区" zipcode="1024" />
+            <district name="永嘉县" zipcode="1025" />
+            <district name="平阳县" zipcode="1026" />
+            <district name="苍南县" zipcode="1027" />
+            <district name="文成县" zipcode="1028" />
+            <district name="泰顺县" zipcode="1029" />
+            <district name="瑞安市" zipcode="1030" />
+            <district name="乐清市" zipcode="1031" />
+            <district name="其他" zipcode="1032" />
+
+        </city>
+        <city name="嘉兴市">
+            <district name="南湖区" zipcode="1034" />
+            <district name="秀洲区" zipcode="1035" />
+            <district name="嘉善县" zipcode="1036" />
+            <district name="海盐县" zipcode="1037" />
+            <district name="海宁市" zipcode="1038" />
+            <district name="平湖市" zipcode="1039" />
+            <district name="桐乡市" zipcode="1040" />
+            <district name="其他" zipcode="1041" />
+
+        </city>
+        <city name="湖州市">
+            <district name="吴兴区" zipcode="1043" />
+            <district name="南浔区" zipcode="1044" />
+            <district name="德清县" zipcode="1045" />
+            <district name="长兴县" zipcode="1046" />
+            <district name="安吉县" zipcode="1047" />
+            <district name="其他" zipcode="1048" />
+
+        </city>
+        <city name="绍兴市">
+            <district name="越城区" zipcode="1050" />
+            <district name="柯桥区" zipcode="1051" />
+            <district name="上虞区" zipcode="1052" />
+            <district name="新昌县" zipcode="1053" />
+            <district name="诸暨市" zipcode="1054" />
+            <district name="嵊州市" zipcode="1055" />
+            <district name="其他" zipcode="1056" />
+
+        </city>
+        <city name="金华市">
+            <district name="婺城区" zipcode="1058" />
+            <district name="金东区" zipcode="1059" />
+            <district name="武义县" zipcode="1060" />
+            <district name="浦江县" zipcode="1061" />
+            <district name="磐安县" zipcode="1062" />
+            <district name="兰溪市" zipcode="1063" />
+            <district name="义乌市" zipcode="1064" />
+            <district name="东阳市" zipcode="1065" />
+            <district name="永康市" zipcode="1066" />
+            <district name="其他" zipcode="1067" />
+
+        </city>
+        <city name="衢州市">
+            <district name="柯城区" zipcode="1069" />
+            <district name="衢江区" zipcode="1070" />
+            <district name="常山县" zipcode="1071" />
+            <district name="开化县" zipcode="1072" />
+            <district name="龙游县" zipcode="1073" />
+            <district name="江山市" zipcode="1074" />
+            <district name="其他" zipcode="1075" />
+
+        </city>
+        <city name="舟山市">
+            <district name="定海区" zipcode="1077" />
+            <district name="普陀区" zipcode="1078" />
+            <district name="岱山县" zipcode="1079" />
+            <district name="嵊泗县" zipcode="1080" />
+            <district name="其他" zipcode="1081" />
+
+        </city>
+        <city name="台州市">
+            <district name="椒江区" zipcode="1083" />
+            <district name="黄岩区" zipcode="1084" />
+            <district name="路桥区" zipcode="1085" />
+            <district name="玉环县" zipcode="1086" />
+            <district name="三门县" zipcode="1087" />
+            <district name="天台县" zipcode="1088" />
+            <district name="仙居县" zipcode="1089" />
+            <district name="温岭市" zipcode="1090" />
+            <district name="临海市" zipcode="1091" />
+            <district name="其他" zipcode="1092" />
+
+        </city>
+        <city name="丽水市">
+            <district name="莲都区" zipcode="1094" />
+            <district name="青田县" zipcode="1095" />
+            <district name="缙云县" zipcode="1096" />
+            <district name="遂昌县" zipcode="1097" />
+            <district name="松阳县" zipcode="1098" />
+            <district name="云和县" zipcode="1099" />
+            <district name="庆元县" zipcode="1100" />
+            <district name="景宁畲族自治县" zipcode="1101" />
+            <district name="龙泉市" zipcode="1102" />
+            <district name="其他" zipcode="1103" />
+
+        </city>
+    </province>
+    <province name="安徽省">
+        <city name="合肥市">
+            <district name="瑶海区" zipcode="1105" />
+            <district name="庐阳区" zipcode="1106" />
+            <district name="蜀山区" zipcode="1107" />
+            <district name="包河区" zipcode="1108" />
+            <district name="长丰县" zipcode="1109" />
+            <district name="肥东县" zipcode="1110" />
+            <district name="肥西县" zipcode="1111" />
+            <district name="庐江县" zipcode="1112" />
+            <district name="巢湖市" zipcode="1113" />
+            <district name="其他" zipcode="1114" />
+
+        </city>
+        <city name="芜湖市">
+            <district name="镜湖区" zipcode="1116" />
+            <district name="弋江区" zipcode="1117" />
+            <district name="鸠江区" zipcode="1118" />
+            <district name="三山区" zipcode="1119" />
+            <district name="芜湖县" zipcode="1120" />
+            <district name="繁昌县" zipcode="1121" />
+            <district name="南陵县" zipcode="1122" />
+            <district name="无为县" zipcode="1123" />
+            <district name="其他" zipcode="1124" />
+
+        </city>
+        <city name="蚌埠市">
+            <district name="龙子湖区" zipcode="1126" />
+            <district name="蚌山区" zipcode="1127" />
+            <district name="禹会区" zipcode="1128" />
+            <district name="淮上区" zipcode="1129" />
+            <district name="怀远县" zipcode="1130" />
+            <district name="五河县" zipcode="1131" />
+            <district name="固镇县" zipcode="1132" />
+            <district name="其他" zipcode="1133" />
+
+        </city>
+        <city name="淮南市">
+            <district name="大通区" zipcode="1135" />
+            <district name="田家庵区" zipcode="1136" />
+            <district name="谢家集区" zipcode="1137" />
+            <district name="八公山区" zipcode="1138" />
+            <district name="潘集区" zipcode="1139" />
+            <district name="凤台县" zipcode="1140" />
+            <district name="其他" zipcode="1141" />
+
+        </city>
+        <city name="马鞍山市">
+            <district name="花山区" zipcode="1143" />
+            <district name="雨山区" zipcode="1144" />
+            <district name="博望区" zipcode="1145" />
+            <district name="当涂县" zipcode="1146" />
+            <district name="含山县" zipcode="1147" />
+            <district name="和县" zipcode="1148" />
+            <district name="其他" zipcode="1149" />
+
+        </city>
+        <city name="淮北市">
+            <district name="杜集区" zipcode="1151" />
+            <district name="相山区" zipcode="1152" />
+            <district name="烈山区" zipcode="1153" />
+            <district name="濉溪县" zipcode="1154" />
+            <district name="其他" zipcode="1155" />
+
+        </city>
+        <city name="铜陵市">
+            <district name="铜官山区" zipcode="1157" />
+            <district name="狮子山区" zipcode="1158" />
+            <district name="郊区" zipcode="1159" />
+            <district name="铜陵县" zipcode="1160" />
+            <district name="其他" zipcode="1161" />
+
+        </city>
+        <city name="安庆市">
+            <district name="迎江区" zipcode="1163" />
+            <district name="大观区" zipcode="1164" />
+            <district name="宜秀区" zipcode="1165" />
+            <district name="怀宁县" zipcode="1166" />
+            <district name="枞阳县" zipcode="1167" />
+            <district name="潜山县" zipcode="1168" />
+            <district name="太湖县" zipcode="1169" />
+            <district name="宿松县" zipcode="1170" />
+            <district name="望江县" zipcode="1171" />
+            <district name="岳西县" zipcode="1172" />
+            <district name="桐城市" zipcode="1173" />
+            <district name="其他" zipcode="1174" />
+
+        </city>
+        <city name="黄山市">
+            <district name="屯溪区" zipcode="1176" />
+            <district name="黄山区" zipcode="1177" />
+            <district name="徽州区" zipcode="1178" />
+            <district name="歙县" zipcode="1179" />
+            <district name="休宁县" zipcode="1180" />
+            <district name="黟县" zipcode="1181" />
+            <district name="祁门县" zipcode="1182" />
+            <district name="其他" zipcode="1183" />
+
+        </city>
+        <city name="滁州市">
+            <district name="琅琊区" zipcode="1185" />
+            <district name="南谯区" zipcode="1186" />
+            <district name="来安县" zipcode="1187" />
+            <district name="全椒县" zipcode="1188" />
+            <district name="定远县" zipcode="1189" />
+            <district name="凤阳县" zipcode="1190" />
+            <district name="天长市" zipcode="1191" />
+            <district name="明光市" zipcode="1192" />
+            <district name="其他" zipcode="1193" />
+
+        </city>
+        <city name="阜阳市">
+            <district name="颍州区" zipcode="1195" />
+            <district name="颍东区" zipcode="1196" />
+            <district name="颍泉区" zipcode="1197" />
+            <district name="临泉县" zipcode="1198" />
+            <district name="太和县" zipcode="1199" />
+            <district name="阜南县" zipcode="1200" />
+            <district name="颍上县" zipcode="1201" />
+            <district name="界首市" zipcode="1202" />
+            <district name="其他" zipcode="1203" />
+
+        </city>
+        <city name="宿州市">
+            <district name="埇桥区" zipcode="1205" />
+            <district name="砀山县" zipcode="1206" />
+            <district name="萧县" zipcode="1207" />
+            <district name="灵璧县" zipcode="1208" />
+            <district name="泗县" zipcode="1209" />
+            <district name="其他" zipcode="1210" />
+
+        </city>
+        <city name="六安市">
+            <district name="金安区" zipcode="1212" />
+            <district name="裕安区" zipcode="1213" />
+            <district name="寿县" zipcode="1214" />
+            <district name="霍邱县" zipcode="1215" />
+            <district name="舒城县" zipcode="1216" />
+            <district name="金寨县" zipcode="1217" />
+            <district name="霍山县" zipcode="1218" />
+            <district name="其他" zipcode="1219" />
+
+        </city>
+        <city name="亳州市">
+            <district name="谯城区" zipcode="1221" />
+            <district name="涡阳县" zipcode="1222" />
+            <district name="蒙城县" zipcode="1223" />
+            <district name="利辛县" zipcode="1224" />
+            <district name="其他" zipcode="1225" />
+
+        </city>
+        <city name="池州市">
+            <district name="贵池区" zipcode="1227" />
+            <district name="东至县" zipcode="1228" />
+            <district name="石台县" zipcode="1229" />
+            <district name="青阳县" zipcode="1230" />
+            <district name="其他" zipcode="1231" />
+
+        </city>
+        <city name="宣城市">
+            <district name="宣州区" zipcode="1233" />
+            <district name="郎溪县" zipcode="1234" />
+            <district name="广德县" zipcode="1235" />
+            <district name="泾县" zipcode="1236" />
+            <district name="绩溪县" zipcode="1237" />
+            <district name="旌德县" zipcode="1238" />
+            <district name="宁国市" zipcode="1239" />
+            <district name="其他" zipcode="1240" />
+
+        </city>
+    </province>
+    <province name="福建省">
+        <city name="福州市">
+            <district name="鼓楼区" zipcode="1242" />
+            <district name="台江区" zipcode="1243" />
+            <district name="仓山区" zipcode="1244" />
+            <district name="马尾区" zipcode="1245" />
+            <district name="晋安区" zipcode="1246" />
+            <district name="闽侯县" zipcode="1247" />
+            <district name="连江县" zipcode="1248" />
+            <district name="罗源县" zipcode="1249" />
+            <district name="闽清县" zipcode="1250" />
+            <district name="永泰县" zipcode="1251" />
+            <district name="平潭县" zipcode="1252" />
+            <district name="福清市" zipcode="1253" />
+            <district name="长乐市" zipcode="1254" />
+            <district name="其他" zipcode="1255" />
+
+        </city>
+        <city name="厦门市">
+            <district name="思明区" zipcode="1257" />
+            <district name="海沧区" zipcode="1258" />
+            <district name="湖里区" zipcode="1259" />
+            <district name="集美区" zipcode="1260" />
+            <district name="同安区" zipcode="1261" />
+            <district name="翔安区" zipcode="1262" />
+            <district name="其他" zipcode="1263" />
+
+        </city>
+        <city name="莆田市">
+            <district name="城厢区" zipcode="1265" />
+            <district name="涵江区" zipcode="1266" />
+            <district name="荔城区" zipcode="1267" />
+            <district name="秀屿区" zipcode="1268" />
+            <district name="仙游县" zipcode="1269" />
+            <district name="其他" zipcode="1270" />
+
+        </city>
+        <city name="三明市">
+            <district name="梅列区" zipcode="1272" />
+            <district name="三元区" zipcode="1273" />
+            <district name="明溪县" zipcode="1274" />
+            <district name="清流县" zipcode="1275" />
+            <district name="宁化县" zipcode="1276" />
+            <district name="大田县" zipcode="1277" />
+            <district name="尤溪县" zipcode="1278" />
+            <district name="沙县" zipcode="1279" />
+            <district name="将乐县" zipcode="1280" />
+            <district name="泰宁县" zipcode="1281" />
+            <district name="建宁县" zipcode="1282" />
+            <district name="永安市" zipcode="1283" />
+            <district name="其他" zipcode="1284" />
+
+        </city>
+        <city name="泉州市">
+            <district name="鲤城区" zipcode="1286" />
+            <district name="丰泽区" zipcode="1287" />
+            <district name="洛江区" zipcode="1288" />
+            <district name="泉港区" zipcode="1289" />
+            <district name="惠安县" zipcode="1290" />
+            <district name="安溪县" zipcode="1291" />
+            <district name="永春县" zipcode="1292" />
+            <district name="德化县" zipcode="1293" />
+            <district name="金门县" zipcode="1294" />
+            <district name="石狮市" zipcode="1295" />
+            <district name="晋江市" zipcode="1296" />
+            <district name="南安市" zipcode="1297" />
+            <district name="其他" zipcode="1298" />
+
+        </city>
+        <city name="漳州市">
+            <district name="芗城区" zipcode="1300" />
+            <district name="龙文区" zipcode="1301" />
+            <district name="云霄县" zipcode="1302" />
+            <district name="漳浦县" zipcode="1303" />
+            <district name="诏安县" zipcode="1304" />
+            <district name="长泰县" zipcode="1305" />
+            <district name="东山县" zipcode="1306" />
+            <district name="南靖县" zipcode="1307" />
+            <district name="平和县" zipcode="1308" />
+            <district name="华安县" zipcode="1309" />
+            <district name="龙海市" zipcode="1310" />
+            <district name="其他" zipcode="1311" />
+
+        </city>
+        <city name="南平市">
+            <district name="延平区" zipcode="1313" />
+            <district name="建阳区" zipcode="1314" />
+            <district name="顺昌县" zipcode="1315" />
+            <district name="浦城县" zipcode="1316" />
+            <district name="光泽县" zipcode="1317" />
+            <district name="松溪县" zipcode="1318" />
+            <district name="政和县" zipcode="1319" />
+            <district name="邵武市" zipcode="1320" />
+            <district name="武夷山市" zipcode="1321" />
+            <district name="建瓯市" zipcode="1322" />
+            <district name="其他" zipcode="1323" />
+
+        </city>
+        <city name="龙岩市">
+            <district name="新罗区" zipcode="1325" />
+            <district name="永定区" zipcode="1326" />
+            <district name="长汀县" zipcode="1327" />
+            <district name="上杭县" zipcode="1328" />
+            <district name="武平县" zipcode="1329" />
+            <district name="连城县" zipcode="1330" />
+            <district name="漳平市" zipcode="1331" />
+            <district name="其他" zipcode="1332" />
+
+        </city>
+        <city name="宁德市">
+            <district name="蕉城区" zipcode="1334" />
+            <district name="霞浦县" zipcode="1335" />
+            <district name="古田县" zipcode="1336" />
+            <district name="屏南县" zipcode="1337" />
+            <district name="寿宁县" zipcode="1338" />
+            <district name="周宁县" zipcode="1339" />
+            <district name="柘荣县" zipcode="1340" />
+            <district name="福安市" zipcode="1341" />
+            <district name="福鼎市" zipcode="1342" />
+            <district name="其他" zipcode="1343" />
+
+        </city>
+    </province>
+    <province name="江西省">
+        <city name="南昌市">
+            <district name="东湖区" zipcode="1345" />
+            <district name="西湖区" zipcode="1346" />
+            <district name="青云谱区" zipcode="1347" />
+            <district name="湾里区" zipcode="1348" />
+            <district name="青山湖区" zipcode="1349" />
+            <district name="新建区" zipcode="1350" />
+            <district name="南昌县" zipcode="1351" />
+            <district name="安义县" zipcode="1352" />
+            <district name="进贤县" zipcode="1353" />
+            <district name="其他" zipcode="1354" />
+
+        </city>
+        <city name="景德镇市">
+            <district name="昌江区" zipcode="1356" />
+            <district name="珠山区" zipcode="1357" />
+            <district name="浮梁县" zipcode="1358" />
+            <district name="乐平市" zipcode="1359" />
+            <district name="其他" zipcode="1360" />
+
+        </city>
+        <city name="萍乡市">
+            <district name="安源区" zipcode="1362" />
+            <district name="湘东区" zipcode="1363" />
+            <district name="莲花县" zipcode="1364" />
+            <district name="上栗县" zipcode="1365" />
+            <district name="芦溪县" zipcode="1366" />
+            <district name="其他" zipcode="1367" />
+
+        </city>
+        <city name="九江市">
+            <district name="庐山区" zipcode="1369" />
+            <district name="浔阳区" zipcode="1370" />
+            <district name="九江县" zipcode="1371" />
+            <district name="武宁县" zipcode="1372" />
+            <district name="修水县" zipcode="1373" />
+            <district name="永修县" zipcode="1374" />
+            <district name="德安县" zipcode="1375" />
+            <district name="星子县" zipcode="1376" />
+            <district name="都昌县" zipcode="1377" />
+            <district name="湖口县" zipcode="1378" />
+            <district name="彭泽县" zipcode="1379" />
+            <district name="瑞昌市" zipcode="1380" />
+            <district name="共青城市" zipcode="1381" />
+            <district name="其他" zipcode="1382" />
+
+        </city>
+        <city name="新余市">
+            <district name="渝水区" zipcode="1384" />
+            <district name="分宜县" zipcode="1385" />
+            <district name="其他" zipcode="1386" />
+
+        </city>
+        <city name="鹰潭市">
+            <district name="月湖区" zipcode="1388" />
+            <district name="余江县" zipcode="1389" />
+            <district name="贵溪市" zipcode="1390" />
+            <district name="其他" zipcode="1391" />
+
+        </city>
+        <city name="赣州市">
+            <district name="章贡区" zipcode="1393" />
+            <district name="南康区" zipcode="1394" />
+            <district name="赣县" zipcode="1395" />
+            <district name="信丰县" zipcode="1396" />
+            <district name="大余县" zipcode="1397" />
+            <district name="上犹县" zipcode="1398" />
+            <district name="崇义县" zipcode="1399" />
+            <district name="安远县" zipcode="1400" />
+            <district name="龙南县" zipcode="1401" />
+            <district name="定南县" zipcode="1402" />
+            <district name="全南县" zipcode="1403" />
+            <district name="宁都县" zipcode="1404" />
+            <district name="于都县" zipcode="1405" />
+            <district name="兴国县" zipcode="1406" />
+            <district name="会昌县" zipcode="1407" />
+            <district name="寻乌县" zipcode="1408" />
+            <district name="石城县" zipcode="1409" />
+            <district name="瑞金市" zipcode="1410" />
+            <district name="其他" zipcode="1411" />
+
+        </city>
+        <city name="吉安市">
+            <district name="吉州区" zipcode="1413" />
+            <district name="青原区" zipcode="1414" />
+            <district name="吉安县" zipcode="1415" />
+            <district name="吉水县" zipcode="1416" />
+            <district name="峡江县" zipcode="1417" />
+            <district name="新干县" zipcode="1418" />
+            <district name="永丰县" zipcode="1419" />
+            <district name="泰和县" zipcode="1420" />
+            <district name="遂川县" zipcode="1421" />
+            <district name="万安县" zipcode="1422" />
+            <district name="安福县" zipcode="1423" />
+            <district name="永新县" zipcode="1424" />
+            <district name="井冈山市" zipcode="1425" />
+            <district name="其他" zipcode="1426" />
+
+        </city>
+        <city name="宜春市">
+            <district name="袁州区" zipcode="1428" />
+            <district name="奉新县" zipcode="1429" />
+            <district name="万载县" zipcode="1430" />
+            <district name="上高县" zipcode="1431" />
+            <district name="宜丰县" zipcode="1432" />
+            <district name="靖安县" zipcode="1433" />
+            <district name="铜鼓县" zipcode="1434" />
+            <district name="丰城市" zipcode="1435" />
+            <district name="樟树市" zipcode="1436" />
+            <district name="高安市" zipcode="1437" />
+            <district name="其他" zipcode="1438" />
+
+        </city>
+        <city name="抚州市">
+            <district name="临川区" zipcode="1440" />
+            <district name="南城县" zipcode="1441" />
+            <district name="黎川县" zipcode="1442" />
+            <district name="南丰县" zipcode="1443" />
+            <district name="崇仁县" zipcode="1444" />
+            <district name="乐安县" zipcode="1445" />
+            <district name="宜黄县" zipcode="1446" />
+            <district name="金溪县" zipcode="1447" />
+            <district name="资溪县" zipcode="1448" />
+            <district name="东乡县" zipcode="1449" />
+            <district name="广昌县" zipcode="1450" />
+            <district name="其他" zipcode="1451" />
+
+        </city>
+        <city name="上饶市">
+            <district name="信州区" zipcode="1453" />
+            <district name="广丰区" zipcode="1454" />
+            <district name="上饶县" zipcode="1455" />
+            <district name="玉山县" zipcode="1456" />
+            <district name="铅山县" zipcode="1457" />
+            <district name="横峰县" zipcode="1458" />
+            <district name="弋阳县" zipcode="1459" />
+            <district name="余干县" zipcode="1460" />
+            <district name="鄱阳县" zipcode="1461" />
+            <district name="万年县" zipcode="1462" />
+            <district name="婺源县" zipcode="1463" />
+            <district name="德兴市" zipcode="1464" />
+            <district name="其他" zipcode="1465" />
+
+        </city>
+    </province>
+    <province name="山东省">
+        <city name="济南市">
+            <district name="历下区" zipcode="1467" />
+            <district name="市中区" zipcode="1468" />
+            <district name="槐荫区" zipcode="1469" />
+            <district name="天桥区" zipcode="1470" />
+            <district name="历城区" zipcode="1471" />
+            <district name="长清区" zipcode="1472" />
+            <district name="平阴县" zipcode="1473" />
+            <district name="济阳县" zipcode="1474" />
+            <district name="商河县" zipcode="1475" />
+            <district name="章丘市" zipcode="1476" />
+            <district name="其他" zipcode="1477" />
+
+        </city>
+        <city name="青岛市">
+            <district name="市南区" zipcode="1479" />
+            <district name="市北区" zipcode="1480" />
+            <district name="黄岛区" zipcode="1481" />
+            <district name="崂山区" zipcode="1482" />
+            <district name="李沧区" zipcode="1483" />
+            <district name="城阳区" zipcode="1484" />
+            <district name="胶州市" zipcode="1485" />
+            <district name="即墨市" zipcode="1486" />
+            <district name="平度市" zipcode="1487" />
+            <district name="莱西市" zipcode="1488" />
+            <district name="其他" zipcode="1489" />
+
+        </city>
+        <city name="淄博市">
+            <district name="淄川区" zipcode="1491" />
+            <district name="张店区" zipcode="1492" />
+            <district name="博山区" zipcode="1493" />
+            <district name="临淄区" zipcode="1494" />
+            <district name="周村区" zipcode="1495" />
+            <district name="桓台县" zipcode="1496" />
+            <district name="高青县" zipcode="1497" />
+            <district name="沂源县" zipcode="1498" />
+            <district name="其他" zipcode="1499" />
+
+        </city>
+        <city name="枣庄市">
+            <district name="市中区" zipcode="1501" />
+            <district name="薛城区" zipcode="1502" />
+            <district name="峄城区" zipcode="1503" />
+            <district name="台儿庄区" zipcode="1504" />
+            <district name="山亭区" zipcode="1505" />
+            <district name="滕州市" zipcode="1506" />
+            <district name="其他" zipcode="1507" />
+
+        </city>
+        <city name="东营市">
+            <district name="东营区" zipcode="1509" />
+            <district name="河口区" zipcode="1510" />
+            <district name="垦利县" zipcode="1511" />
+            <district name="利津县" zipcode="1512" />
+            <district name="广饶县" zipcode="1513" />
+            <district name="其他" zipcode="1514" />
+
+        </city>
+        <city name="烟台市">
+            <district name="芝罘区" zipcode="1516" />
+            <district name="福山区" zipcode="1517" />
+            <district name="牟平区" zipcode="1518" />
+            <district name="莱山区" zipcode="1519" />
+            <district name="长岛县" zipcode="1520" />
+            <district name="龙口市" zipcode="1521" />
+            <district name="莱阳市" zipcode="1522" />
+            <district name="莱州市" zipcode="1523" />
+            <district name="蓬莱市" zipcode="1524" />
+            <district name="招远市" zipcode="1525" />
+            <district name="栖霞市" zipcode="1526" />
+            <district name="海阳市" zipcode="1527" />
+            <district name="其他" zipcode="1528" />
+
+        </city>
+        <city name="潍坊市">
+            <district name="潍城区" zipcode="1530" />
+            <district name="寒亭区" zipcode="1531" />
+            <district name="坊子区" zipcode="1532" />
+            <district name="奎文区" zipcode="1533" />
+            <district name="临朐县" zipcode="1534" />
+            <district name="昌乐县" zipcode="1535" />
+            <district name="青州市" zipcode="1536" />
+            <district name="诸城市" zipcode="1537" />
+            <district name="寿光市" zipcode="1538" />
+            <district name="安丘市" zipcode="1539" />
+            <district name="高密市" zipcode="1540" />
+            <district name="昌邑市" zipcode="1541" />
+            <district name="其他" zipcode="1542" />
+
+        </city>
+        <city name="济宁市">
+            <district name="任城区" zipcode="1544" />
+            <district name="兖州区" zipcode="1545" />
+            <district name="微山县" zipcode="1546" />
+            <district name="鱼台县" zipcode="1547" />
+            <district name="金乡县" zipcode="1548" />
+            <district name="嘉祥县" zipcode="1549" />
+            <district name="汶上县" zipcode="1550" />
+            <district name="泗水县" zipcode="1551" />
+            <district name="梁山县" zipcode="1552" />
+            <district name="曲阜市" zipcode="1553" />
+            <district name="邹城市" zipcode="1554" />
+            <district name="其他" zipcode="1555" />
+
+        </city>
+        <city name="泰安市">
+            <district name="泰山区" zipcode="1557" />
+            <district name="岱岳区" zipcode="1558" />
+            <district name="宁阳县" zipcode="1559" />
+            <district name="东平县" zipcode="1560" />
+            <district name="新泰市" zipcode="1561" />
+            <district name="肥城市" zipcode="1562" />
+            <district name="其他" zipcode="1563" />
+
+        </city>
+        <city name="威海市">
+            <district name="环翠区" zipcode="1565" />
+            <district name="文登区" zipcode="1566" />
+            <district name="荣成市" zipcode="1567" />
+            <district name="乳山市" zipcode="1568" />
+            <district name="其他" zipcode="1569" />
+
+        </city>
+        <city name="日照市">
+            <district name="东港区" zipcode="1571" />
+            <district name="岚山区" zipcode="1572" />
+            <district name="五莲县" zipcode="1573" />
+            <district name="莒县" zipcode="1574" />
+            <district name="其他" zipcode="1575" />
+
+        </city>
+        <city name="莱芜市">
+            <district name="莱城区" zipcode="1577" />
+            <district name="钢城区" zipcode="1578" />
+            <district name="其他" zipcode="1579" />
+
+        </city>
+        <city name="临沂市">
+            <district name="兰山区" zipcode="1581" />
+            <district name="罗庄区" zipcode="1582" />
+            <district name="河东区" zipcode="1583" />
+            <district name="沂南县" zipcode="1584" />
+            <district name="郯城县" zipcode="1585" />
+            <district name="沂水县" zipcode="1586" />
+            <district name="兰陵县" zipcode="1587" />
+            <district name="费县" zipcode="1588" />
+            <district name="平邑县" zipcode="1589" />
+            <district name="莒南县" zipcode="1590" />
+            <district name="蒙阴县" zipcode="1591" />
+            <district name="临沭县" zipcode="1592" />
+            <district name="其他" zipcode="1593" />
+
+        </city>
+        <city name="德州市">
+            <district name="德城区" zipcode="1595" />
+            <district name="陵城区" zipcode="1596" />
+            <district name="宁津县" zipcode="1597" />
+            <district name="庆云县" zipcode="1598" />
+            <district name="临邑县" zipcode="1599" />
+            <district name="齐河县" zipcode="1600" />
+            <district name="平原县" zipcode="1601" />
+            <district name="夏津县" zipcode="1602" />
+            <district name="武城县" zipcode="1603" />
+            <district name="乐陵市" zipcode="1604" />
+            <district name="禹城市" zipcode="1605" />
+            <district name="其他" zipcode="1606" />
+
+        </city>
+        <city name="聊城市">
+            <district name="东昌府区" zipcode="1608" />
+            <district name="阳谷县" zipcode="1609" />
+            <district name="莘县" zipcode="1610" />
+            <district name="茌平县" zipcode="1611" />
+            <district name="东阿县" zipcode="1612" />
+            <district name="冠县" zipcode="1613" />
+            <district name="高唐县" zipcode="1614" />
+            <district name="临清市" zipcode="1615" />
+            <district name="其他" zipcode="1616" />
+
+        </city>
+        <city name="滨州市">
+            <district name="滨城区" zipcode="1618" />
+            <district name="沾化区" zipcode="1619" />
+            <district name="惠民县" zipcode="1620" />
+            <district name="阳信县" zipcode="1621" />
+            <district name="无棣县" zipcode="1622" />
+            <district name="博兴县" zipcode="1623" />
+            <district name="邹平县" zipcode="1624" />
+            <district name="其他" zipcode="1625" />
+
+        </city>
+        <city name="菏泽市">
+            <district name="牡丹区" zipcode="1627" />
+            <district name="曹县" zipcode="1628" />
+            <district name="单县" zipcode="1629" />
+            <district name="成武县" zipcode="1630" />
+            <district name="巨野县" zipcode="1631" />
+            <district name="郓城县" zipcode="1632" />
+            <district name="鄄城县" zipcode="1633" />
+            <district name="定陶县" zipcode="1634" />
+            <district name="东明县" zipcode="1635" />
+            <district name="其他" zipcode="1636" />
+
+        </city>
+    </province>
+    <province name="河南省">
+        <city name="郑州市">
+            <district name="中原区" zipcode="1638" />
+            <district name="二七区" zipcode="1639" />
+            <district name="管城回族区" zipcode="1640" />
+            <district name="金水区" zipcode="1641" />
+            <district name="上街区" zipcode="1642" />
+            <district name="惠济区" zipcode="1643" />
+            <district name="中牟县" zipcode="1644" />
+            <district name="巩义市" zipcode="1645" />
+            <district name="荥阳市" zipcode="1646" />
+            <district name="新密市" zipcode="1647" />
+            <district name="新郑市" zipcode="1648" />
+            <district name="登封市" zipcode="1649" />
+            <district name="其他" zipcode="1650" />
+
+        </city>
+        <city name="开封市">
+            <district name="龙亭区" zipcode="1652" />
+            <district name="顺河回族区" zipcode="1653" />
+            <district name="鼓楼区" zipcode="1654" />
+            <district name="禹王台区" zipcode="1655" />
+            <district name="金明区" zipcode="1656" />
+            <district name="祥符区" zipcode="1657" />
+            <district name="杞县" zipcode="1658" />
+            <district name="通许县" zipcode="1659" />
+            <district name="尉氏县" zipcode="1660" />
+            <district name="兰考县" zipcode="1661" />
+            <district name="其他" zipcode="1662" />
+
+        </city>
+        <city name="洛阳市">
+            <district name="老城区" zipcode="1664" />
+            <district name="西工区" zipcode="1665" />
+            <district name="瀍河回族区" zipcode="1666" />
+            <district name="涧西区" zipcode="1667" />
+            <district name="吉利区" zipcode="1668" />
+            <district name="洛龙区" zipcode="1669" />
+            <district name="孟津县" zipcode="1670" />
+            <district name="新安县" zipcode="1671" />
+            <district name="栾川县" zipcode="1672" />
+            <district name="嵩县" zipcode="1673" />
+            <district name="汝阳县" zipcode="1674" />
+            <district name="宜阳县" zipcode="1675" />
+            <district name="洛宁县" zipcode="1676" />
+            <district name="伊川县" zipcode="1677" />
+            <district name="偃师市" zipcode="1678" />
+            <district name="其他" zipcode="1679" />
+
+        </city>
+        <city name="平顶山市">
+            <district name="新华区" zipcode="1681" />
+            <district name="卫东区" zipcode="1682" />
+            <district name="石龙区" zipcode="1683" />
+            <district name="湛河区" zipcode="1684" />
+            <district name="宝丰县" zipcode="1685" />
+            <district name="叶县" zipcode="1686" />
+            <district name="鲁山县" zipcode="1687" />
+            <district name="郏县" zipcode="1688" />
+            <district name="舞钢市" zipcode="1689" />
+            <district name="汝州市" zipcode="1690" />
+            <district name="其他" zipcode="1691" />
+
+        </city>
+        <city name="安阳市">
+            <district name="文峰区" zipcode="1693" />
+            <district name="北关区" zipcode="1694" />
+            <district name="殷都区" zipcode="1695" />
+            <district name="龙安区" zipcode="1696" />
+            <district name="安阳县" zipcode="1697" />
+            <district name="汤阴县" zipcode="1698" />
+            <district name="滑县" zipcode="1699" />
+            <district name="内黄县" zipcode="1700" />
+            <district name="林州市" zipcode="1701" />
+            <district name="其他" zipcode="1702" />
+
+        </city>
+        <city name="鹤壁市">
+            <district name="鹤山区" zipcode="1704" />
+            <district name="山城区" zipcode="1705" />
+            <district name="淇滨区" zipcode="1706" />
+            <district name="浚县" zipcode="1707" />
+            <district name="淇县" zipcode="1708" />
+            <district name="其他" zipcode="1709" />
+
+        </city>
+        <city name="新乡市">
+            <district name="红旗区" zipcode="1711" />
+            <district name="卫滨区" zipcode="1712" />
+            <district name="凤泉区" zipcode="1713" />
+            <district name="牧野区" zipcode="1714" />
+            <district name="新乡县" zipcode="1715" />
+            <district name="获嘉县" zipcode="1716" />
+            <district name="原阳县" zipcode="1717" />
+            <district name="延津县" zipcode="1718" />
+            <district name="封丘县" zipcode="1719" />
+            <district name="长垣县" zipcode="1720" />
+            <district name="卫辉市" zipcode="1721" />
+            <district name="辉县市" zipcode="1722" />
+            <district name="其他" zipcode="1723" />
+
+        </city>
+        <city name="焦作市">
+            <district name="解放区" zipcode="1725" />
+            <district name="中站区" zipcode="1726" />
+            <district name="马村区" zipcode="1727" />
+            <district name="山阳区" zipcode="1728" />
+            <district name="修武县" zipcode="1729" />
+            <district name="博爱县" zipcode="1730" />
+            <district name="武陟县" zipcode="1731" />
+            <district name="温县" zipcode="1732" />
+            <district name="沁阳市" zipcode="1733" />
+            <district name="孟州市" zipcode="1734" />
+            <district name="其他" zipcode="1735" />
+
+        </city>
+        <city name="濮阳市">
+            <district name="华龙区" zipcode="1737" />
+            <district name="清丰县" zipcode="1738" />
+            <district name="南乐县" zipcode="1739" />
+            <district name="范县" zipcode="1740" />
+            <district name="台前县" zipcode="1741" />
+            <district name="濮阳县" zipcode="1742" />
+            <district name="其他" zipcode="1743" />
+
+        </city>
+        <city name="许昌市">
+            <district name="魏都区" zipcode="1745" />
+            <district name="许昌县" zipcode="1746" />
+            <district name="鄢陵县" zipcode="1747" />
+            <district name="襄城县" zipcode="1748" />
+            <district name="禹州市" zipcode="1749" />
+            <district name="长葛市" zipcode="1750" />
+            <district name="其他" zipcode="1751" />
+
+        </city>
+        <city name="漯河市">
+            <district name="源汇区" zipcode="1753" />
+            <district name="郾城区" zipcode="1754" />
+            <district name="召陵区" zipcode="1755" />
+            <district name="舞阳县" zipcode="1756" />
+            <district name="临颍县" zipcode="1757" />
+            <district name="其他" zipcode="1758" />
+
+        </city>
+        <city name="三门峡市">
+            <district name="湖滨区" zipcode="1760" />
+            <district name="渑池县" zipcode="1761" />
+            <district name="陕县" zipcode="1762" />
+            <district name="卢氏县" zipcode="1763" />
+            <district name="义马市" zipcode="1764" />
+            <district name="灵宝市" zipcode="1765" />
+            <district name="其他" zipcode="1766" />
+
+        </city>
+        <city name="南阳市">
+            <district name="宛城区" zipcode="1768" />
+            <district name="卧龙区" zipcode="1769" />
+            <district name="南召县" zipcode="1770" />
+            <district name="方城县" zipcode="1771" />
+            <district name="西峡县" zipcode="1772" />
+            <district name="镇平县" zipcode="1773" />
+            <district name="内乡县" zipcode="1774" />
+            <district name="淅川县" zipcode="1775" />
+            <district name="社旗县" zipcode="1776" />
+            <district name="唐河县" zipcode="1777" />
+            <district name="新野县" zipcode="1778" />
+            <district name="桐柏县" zipcode="1779" />
+            <district name="邓州市" zipcode="1780" />
+            <district name="其他" zipcode="1781" />
+
+        </city>
+        <city name="商丘市">
+            <district name="梁园区" zipcode="1783" />
+            <district name="睢阳区" zipcode="1784" />
+            <district name="民权县" zipcode="1785" />
+            <district name="睢县" zipcode="1786" />
+            <district name="宁陵县" zipcode="1787" />
+            <district name="柘城县" zipcode="1788" />
+            <district name="虞城县" zipcode="1789" />
+            <district name="夏邑县" zipcode="1790" />
+            <district name="永城市" zipcode="1791" />
+            <district name="其他" zipcode="1792" />
+
+        </city>
+        <city name="信阳市">
+            <district name="浉河区" zipcode="1794" />
+            <district name="平桥区" zipcode="1795" />
+            <district name="罗山县" zipcode="1796" />
+            <district name="光山县" zipcode="1797" />
+            <district name="新县" zipcode="1798" />
+            <district name="商城县" zipcode="1799" />
+            <district name="固始县" zipcode="1800" />
+            <district name="潢川县" zipcode="1801" />
+            <district name="淮滨县" zipcode="1802" />
+            <district name="息县" zipcode="1803" />
+            <district name="其他" zipcode="1804" />
+
+        </city>
+        <city name="周口市">
+            <district name="川汇区" zipcode="1806" />
+            <district name="扶沟县" zipcode="1807" />
+            <district name="西华县" zipcode="1808" />
+            <district name="商水县" zipcode="1809" />
+            <district name="沈丘县" zipcode="1810" />
+            <district name="郸城县" zipcode="1811" />
+            <district name="淮阳县" zipcode="1812" />
+            <district name="太康县" zipcode="1813" />
+            <district name="鹿邑县" zipcode="1814" />
+            <district name="项城市" zipcode="1815" />
+            <district name="其他" zipcode="1816" />
+
+        </city>
+        <city name="驻马店市">
+            <district name="驿城区" zipcode="1818" />
+            <district name="西平县" zipcode="1819" />
+            <district name="上蔡县" zipcode="1820" />
+            <district name="平舆县" zipcode="1821" />
+            <district name="正阳县" zipcode="1822" />
+            <district name="确山县" zipcode="1823" />
+            <district name="泌阳县" zipcode="1824" />
+            <district name="汝南县" zipcode="1825" />
+            <district name="遂平县" zipcode="1826" />
+            <district name="新蔡县" zipcode="1827" />
+            <district name="其他" zipcode="1828" />
+
+        </city>
+        <city name="省直辖县级行政区划">
+            <district name="济源市" zipcode="1829" />
+            <district name="其他" zipcode="1830" />
+
+        </city>
+    </province>
+    <province name="湖北省">
+        <city name="武汉市">
+            <district name="江岸区" zipcode="1832" />
+            <district name="江汉区" zipcode="1833" />
+            <district name="硚口区" zipcode="1834" />
+            <district name="汉阳区" zipcode="1835" />
+            <district name="武昌区" zipcode="1836" />
+            <district name="青山区" zipcode="1837" />
+            <district name="洪山区" zipcode="1838" />
+            <district name="东西湖区" zipcode="1839" />
+            <district name="汉南区" zipcode="1840" />
+            <district name="蔡甸区" zipcode="1841" />
+            <district name="江夏区" zipcode="1842" />
+            <district name="黄陂区" zipcode="1843" />
+            <district name="新洲区" zipcode="1844" />
+            <district name="其他" zipcode="1845" />
+
+        </city>
+        <city name="黄石市">
+            <district name="黄石港区" zipcode="1847" />
+            <district name="西塞山区" zipcode="1848" />
+            <district name="下陆区" zipcode="1849" />
+            <district name="铁山区" zipcode="1850" />
+            <district name="阳新县" zipcode="1851" />
+            <district name="大冶市" zipcode="1852" />
+            <district name="其他" zipcode="1853" />
+
+        </city>
+        <city name="十堰市">
+            <district name="茅箭区" zipcode="1855" />
+            <district name="张湾区" zipcode="1856" />
+            <district name="郧阳区" zipcode="1857" />
+            <district name="郧西县" zipcode="1858" />
+            <district name="竹山县" zipcode="1859" />
+            <district name="竹溪县" zipcode="1860" />
+            <district name="房县" zipcode="1861" />
+            <district name="丹江口市" zipcode="1862" />
+            <district name="其他" zipcode="1863" />
+
+        </city>
+        <city name="宜昌市">
+            <district name="西陵区" zipcode="1865" />
+            <district name="伍家岗区" zipcode="1866" />
+            <district name="点军区" zipcode="1867" />
+            <district name="猇亭区" zipcode="1868" />
+            <district name="夷陵区" zipcode="1869" />
+            <district name="远安县" zipcode="1870" />
+            <district name="兴山县" zipcode="1871" />
+            <district name="秭归县" zipcode="1872" />
+            <district name="长阳土家族自治县" zipcode="1873" />
+            <district name="五峰土家族自治县" zipcode="1874" />
+            <district name="宜都市" zipcode="1875" />
+            <district name="当阳市" zipcode="1876" />
+            <district name="枝江市" zipcode="1877" />
+            <district name="其他" zipcode="1878" />
+
+        </city>
+        <city name="襄阳市">
+            <district name="襄城区" zipcode="1880" />
+            <district name="樊城区" zipcode="1881" />
+            <district name="襄州区" zipcode="1882" />
+            <district name="南漳县" zipcode="1883" />
+            <district name="谷城县" zipcode="1884" />
+            <district name="保康县" zipcode="1885" />
+            <district name="老河口市" zipcode="1886" />
+            <district name="枣阳市" zipcode="1887" />
+            <district name="宜城市" zipcode="1888" />
+            <district name="其他" zipcode="1889" />
+
+        </city>
+        <city name="鄂州市">
+            <district name="梁子湖区" zipcode="1891" />
+            <district name="华容区" zipcode="1892" />
+            <district name="鄂城区" zipcode="1893" />
+            <district name="其他" zipcode="1894" />
+
+        </city>
+        <city name="荆门市">
+            <district name="东宝区" zipcode="1896" />
+            <district name="掇刀区" zipcode="1897" />
+            <district name="京山县" zipcode="1898" />
+            <district name="沙洋县" zipcode="1899" />
+            <district name="钟祥市" zipcode="1900" />
+            <district name="其他" zipcode="1901" />
+
+        </city>
+        <city name="孝感市">
+            <district name="孝南区" zipcode="1903" />
+            <district name="孝昌县" zipcode="1904" />
+            <district name="大悟县" zipcode="1905" />
+            <district name="云梦县" zipcode="1906" />
+            <district name="应城市" zipcode="1907" />
+            <district name="安陆市" zipcode="1908" />
+            <district name="汉川市" zipcode="1909" />
+            <district name="其他" zipcode="1910" />
+
+        </city>
+        <city name="荆州市">
+            <district name="沙市区" zipcode="1912" />
+            <district name="荆州区" zipcode="1913" />
+            <district name="公安县" zipcode="1914" />
+            <district name="监利县" zipcode="1915" />
+            <district name="江陵县" zipcode="1916" />
+            <district name="石首市" zipcode="1917" />
+            <district name="洪湖市" zipcode="1918" />
+            <district name="松滋市" zipcode="1919" />
+            <district name="其他" zipcode="1920" />
+
+        </city>
+        <city name="黄冈市">
+            <district name="黄州区" zipcode="1922" />
+            <district name="团风县" zipcode="1923" />
+            <district name="红安县" zipcode="1924" />
+            <district name="罗田县" zipcode="1925" />
+            <district name="英山县" zipcode="1926" />
+            <district name="浠水县" zipcode="1927" />
+            <district name="蕲春县" zipcode="1928" />
+            <district name="黄梅县" zipcode="1929" />
+            <district name="麻城市" zipcode="1930" />
+            <district name="武穴市" zipcode="1931" />
+            <district name="其他" zipcode="1932" />
+
+        </city>
+        <city name="咸宁市">
+            <district name="咸安区" zipcode="1934" />
+            <district name="嘉鱼县" zipcode="1935" />
+            <district name="通城县" zipcode="1936" />
+            <district name="崇阳县" zipcode="1937" />
+            <district name="通山县" zipcode="1938" />
+            <district name="赤壁市" zipcode="1939" />
+            <district name="其他" zipcode="1940" />
+
+        </city>
+        <city name="随州市">
+            <district name="曾都区" zipcode="1942" />
+            <district name="随县" zipcode="1943" />
+            <district name="广水市" zipcode="1944" />
+            <district name="其他" zipcode="1945" />
+
+        </city>
+        <city name="恩施土家族苗族自治州">
+            <district name="恩施市" zipcode="1946" />
+            <district name="利川市" zipcode="1947" />
+            <district name="建始县" zipcode="1948" />
+            <district name="巴东县" zipcode="1949" />
+            <district name="宣恩县" zipcode="1950" />
+            <district name="咸丰县" zipcode="1951" />
+            <district name="来凤县" zipcode="1952" />
+            <district name="鹤峰县" zipcode="1953" />
+            <district name="其他" zipcode="1954" />
+
+        </city>
+        <city name="省直辖县级行政区划">
+            <district name="仙桃市" zipcode="1955" />
+            <district name="潜江市" zipcode="1956" />
+            <district name="天门市" zipcode="1957" />
+            <district name="神农架林区" zipcode="1958" />
+            <district name="其他" zipcode="1959" />
+
+        </city>
+    </province>
+    <province name="湖南省">
+        <city name="长沙市">
+            <district name="芙蓉区" zipcode="1961" />
+            <district name="天心区" zipcode="1962" />
+            <district name="岳麓区" zipcode="1963" />
+            <district name="开福区" zipcode="1964" />
+            <district name="雨花区" zipcode="1965" />
+            <district name="望城区" zipcode="1966" />
+            <district name="长沙县" zipcode="1967" />
+            <district name="宁乡县" zipcode="1968" />
+            <district name="浏阳市" zipcode="1969" />
+            <district name="其他" zipcode="1970" />
+
+        </city>
+        <city name="株洲市">
+            <district name="荷塘区" zipcode="1972" />
+            <district name="芦淞区" zipcode="1973" />
+            <district name="石峰区" zipcode="1974" />
+            <district name="天元区" zipcode="1975" />
+            <district name="株洲县" zipcode="1976" />
+            <district name="攸县" zipcode="1977" />
+            <district name="茶陵县" zipcode="1978" />
+            <district name="炎陵县" zipcode="1979" />
+            <district name="醴陵市" zipcode="1980" />
+            <district name="其他" zipcode="1981" />
+
+        </city>
+        <city name="湘潭市">
+            <district name="雨湖区" zipcode="1983" />
+            <district name="岳塘区" zipcode="1984" />
+            <district name="湘潭县" zipcode="1985" />
+            <district name="湘乡市" zipcode="1986" />
+            <district name="韶山市" zipcode="1987" />
+            <district name="其他" zipcode="1988" />
+
+        </city>
+        <city name="衡阳市">
+            <district name="珠晖区" zipcode="1990" />
+            <district name="雁峰区" zipcode="1991" />
+            <district name="石鼓区" zipcode="1992" />
+            <district name="蒸湘区" zipcode="1993" />
+            <district name="南岳区" zipcode="1994" />
+            <district name="衡阳县" zipcode="1995" />
+            <district name="衡南县" zipcode="1996" />
+            <district name="衡山县" zipcode="1997" />
+            <district name="衡东县" zipcode="1998" />
+            <district name="祁东县" zipcode="1999" />
+            <district name="耒阳市" zipcode="2000" />
+            <district name="常宁市" zipcode="2001" />
+            <district name="其他" zipcode="2002" />
+
+        </city>
+        <city name="邵阳市">
+            <district name="双清区" zipcode="2004" />
+            <district name="大祥区" zipcode="2005" />
+            <district name="北塔区" zipcode="2006" />
+            <district name="邵东县" zipcode="2007" />
+            <district name="新邵县" zipcode="2008" />
+            <district name="邵阳县" zipcode="2009" />
+            <district name="隆回县" zipcode="2010" />
+            <district name="洞口县" zipcode="2011" />
+            <district name="绥宁县" zipcode="2012" />
+            <district name="新宁县" zipcode="2013" />
+            <district name="城步苗族自治县" zipcode="2014" />
+            <district name="武冈市" zipcode="2015" />
+            <district name="其他" zipcode="2016" />
+
+        </city>
+        <city name="岳阳市">
+            <district name="岳阳楼区" zipcode="2018" />
+            <district name="云溪区" zipcode="2019" />
+            <district name="君山区" zipcode="2020" />
+            <district name="岳阳县" zipcode="2021" />
+            <district name="华容县" zipcode="2022" />
+            <district name="湘阴县" zipcode="2023" />
+            <district name="平江县" zipcode="2024" />
+            <district name="汨罗市" zipcode="2025" />
+            <district name="临湘市" zipcode="2026" />
+            <district name="其他" zipcode="2027" />
+
+        </city>
+        <city name="常德市">
+            <district name="武陵区" zipcode="2029" />
+            <district name="鼎城区" zipcode="2030" />
+            <district name="安乡县" zipcode="2031" />
+            <district name="汉寿县" zipcode="2032" />
+            <district name="澧县" zipcode="2033" />
+            <district name="临澧县" zipcode="2034" />
+            <district name="桃源县" zipcode="2035" />
+            <district name="石门县" zipcode="2036" />
+            <district name="津市市" zipcode="2037" />
+            <district name="其他" zipcode="2038" />
+
+        </city>
+        <city name="张家界市">
+            <district name="永定区" zipcode="2040" />
+            <district name="武陵源区" zipcode="2041" />
+            <district name="慈利县" zipcode="2042" />
+            <district name="桑植县" zipcode="2043" />
+            <district name="其他" zipcode="2044" />
+
+        </city>
+        <city name="益阳市">
+            <district name="资阳区" zipcode="2046" />
+            <district name="赫山区" zipcode="2047" />
+            <district name="南县" zipcode="2048" />
+            <district name="桃江县" zipcode="2049" />
+            <district name="安化县" zipcode="2050" />
+            <district name="沅江市" zipcode="2051" />
+            <district name="其他" zipcode="2052" />
+
+        </city>
+        <city name="郴州市">
+            <district name="北湖区" zipcode="2054" />
+            <district name="苏仙区" zipcode="2055" />
+            <district name="桂阳县" zipcode="2056" />
+            <district name="宜章县" zipcode="2057" />
+            <district name="永兴县" zipcode="2058" />
+            <district name="嘉禾县" zipcode="2059" />
+            <district name="临武县" zipcode="2060" />
+            <district name="汝城县" zipcode="2061" />
+            <district name="桂东县" zipcode="2062" />
+            <district name="安仁县" zipcode="2063" />
+            <district name="资兴市" zipcode="2064" />
+            <district name="其他" zipcode="2065" />
+
+        </city>
+        <city name="永州市">
+            <district name="零陵区" zipcode="2067" />
+            <district name="冷水滩区" zipcode="2068" />
+            <district name="祁阳县" zipcode="2069" />
+            <district name="东安县" zipcode="2070" />
+            <district name="双牌县" zipcode="2071" />
+            <district name="道县" zipcode="2072" />
+            <district name="江永县" zipcode="2073" />
+            <district name="宁远县" zipcode="2074" />
+            <district name="蓝山县" zipcode="2075" />
+            <district name="新田县" zipcode="2076" />
+            <district name="江华瑶族自治县" zipcode="2077" />
+            <district name="其他" zipcode="2078" />
+
+        </city>
+        <city name="怀化市">
+            <district name="鹤城区" zipcode="2080" />
+            <district name="中方县" zipcode="2081" />
+            <district name="沅陵县" zipcode="2082" />
+            <district name="辰溪县" zipcode="2083" />
+            <district name="溆浦县" zipcode="2084" />
+            <district name="会同县" zipcode="2085" />
+            <district name="麻阳苗族自治县" zipcode="2086" />
+            <district name="新晃侗族自治县" zipcode="2087" />
+            <district name="芷江侗族自治县" zipcode="2088" />
+            <district name="靖州苗族侗族自治县" zipcode="2089" />
+            <district name="通道侗族自治县" zipcode="2090" />
+            <district name="洪江市" zipcode="2091" />
+            <district name="其他" zipcode="2092" />
+
+        </city>
+        <city name="娄底市">
+            <district name="娄星区" zipcode="2094" />
+            <district name="双峰县" zipcode="2095" />
+            <district name="新化县" zipcode="2096" />
+            <district name="冷水江市" zipcode="2097" />
+            <district name="涟源市" zipcode="2098" />
+            <district name="其他" zipcode="2099" />
+
+        </city>
+        <city name="湘西土家族苗族自治州">
+            <district name="吉首市" zipcode="2100" />
+            <district name="泸溪县" zipcode="2101" />
+            <district name="凤凰县" zipcode="2102" />
+            <district name="花垣县" zipcode="2103" />
+            <district name="保靖县" zipcode="2104" />
+            <district name="古丈县" zipcode="2105" />
+            <district name="永顺县" zipcode="2106" />
+            <district name="龙山县" zipcode="2107" />
+            <district name="其他" zipcode="2108" />
+
+        </city>
+    </province>
+    <province name="广东省">
+        <city name="广州市">
+            <district name="荔湾区" zipcode="2110" />
+            <district name="越秀区" zipcode="2111" />
+            <district name="海珠区" zipcode="2112" />
+            <district name="天河区" zipcode="2113" />
+            <district name="白云区" zipcode="2114" />
+            <district name="黄埔区" zipcode="2115" />
+            <district name="番禺区" zipcode="2116" />
+            <district name="花都区" zipcode="2117" />
+            <district name="南沙区" zipcode="2118" />
+            <district name="从化区" zipcode="2119" />
+            <district name="增城区" zipcode="2120" />
+            <district name="其他" zipcode="2121" />
+
+        </city>
+        <city name="韶关市">
+            <district name="武江区" zipcode="2123" />
+            <district name="浈江区" zipcode="2124" />
+            <district name="曲江区" zipcode="2125" />
+            <district name="始兴县" zipcode="2126" />
+            <district name="仁化县" zipcode="2127" />
+            <district name="翁源县" zipcode="2128" />
+            <district name="乳源瑶族自治县" zipcode="2129" />
+            <district name="新丰县" zipcode="2130" />
+            <district name="乐昌市" zipcode="2131" />
+            <district name="南雄市" zipcode="2132" />
+            <district name="其他" zipcode="2133" />
+
+        </city>
+        <city name="深圳市">
+            <district name="罗湖区" zipcode="2135" />
+            <district name="福田区" zipcode="2136" />
+            <district name="南山区" zipcode="2137" />
+            <district name="宝安区" zipcode="2138" />
+            <district name="龙岗区" zipcode="2139" />
+            <district name="盐田区" zipcode="2140" />
+            <district name="坪山区" zipcode="2141" />
+            <district name="光明新区" zipcode="2142" />
+            <district name="龙华区" zipcode="2143" />
+            <district name="大鹏新区" zipcode="2144" />
+            <district name="其他" zipcode="2145" />
+
+        </city>
+        <city name="珠海市">
+            <district name="香洲区" zipcode="2147" />
+            <district name="斗门区" zipcode="2148" />
+            <district name="金湾区" zipcode="2149" />
+            <district name="其他" zipcode="2150" />
+
+        </city>
+        <city name="汕头市">
+            <district name="龙湖区" zipcode="2152" />
+            <district name="金平区" zipcode="2153" />
+            <district name="濠江区" zipcode="2154" />
+            <district name="潮阳区" zipcode="2155" />
+            <district name="潮南区" zipcode="2156" />
+            <district name="澄海区" zipcode="2157" />
+            <district name="南澳县" zipcode="2158" />
+            <district name="其他" zipcode="2159" />
+
+        </city>
+        <city name="佛山市">
+            <district name="禅城区" zipcode="2161" />
+            <district name="南海区" zipcode="2162" />
+            <district name="顺德区" zipcode="2163" />
+            <district name="三水区" zipcode="2164" />
+            <district name="高明区" zipcode="2165" />
+            <district name="其他" zipcode="2166" />
+
+        </city>
+        <city name="江门市">
+            <district name="蓬江区" zipcode="2168" />
+            <district name="江海区" zipcode="2169" />
+            <district name="新会区" zipcode="2170" />
+            <district name="台山市" zipcode="2171" />
+            <district name="开平市" zipcode="2172" />
+            <district name="鹤山市" zipcode="2173" />
+            <district name="恩平市" zipcode="2174" />
+            <district name="其他" zipcode="2175" />
+
+        </city>
+        <city name="湛江市">
+            <district name="赤坎区" zipcode="2177" />
+            <district name="霞山区" zipcode="2178" />
+            <district name="坡头区" zipcode="2179" />
+            <district name="麻章区" zipcode="2180" />
+            <district name="遂溪县" zipcode="2181" />
+            <district name="徐闻县" zipcode="2182" />
+            <district name="廉江市" zipcode="2183" />
+            <district name="雷州市" zipcode="2184" />
+            <district name="吴川市" zipcode="2185" />
+            <district name="其他" zipcode="2186" />
+
+        </city>
+        <city name="茂名市">
+            <district name="茂南区" zipcode="2188" />
+            <district name="电白区" zipcode="2189" />
+            <district name="高州市" zipcode="2190" />
+            <district name="化州市" zipcode="2191" />
+            <district name="信宜市" zipcode="2192" />
+            <district name="其他" zipcode="2193" />
+
+        </city>
+        <city name="肇庆市">
+            <district name="端州区" zipcode="2195" />
+            <district name="鼎湖区" zipcode="2196" />
+            <district name="高要区" zipcode="2197" />
+            <district name="广宁县" zipcode="2198" />
+            <district name="怀集县" zipcode="2199" />
+            <district name="封开县" zipcode="2200" />
+            <district name="德庆县" zipcode="2201" />
+            <district name="四会市" zipcode="2202" />
+            <district name="其他" zipcode="2203" />
+
+        </city>
+        <city name="惠州市">
+            <district name="惠城区" zipcode="2205" />
+            <district name="惠阳区" zipcode="2206" />
+            <district name="博罗县" zipcode="2207" />
+            <district name="惠东县" zipcode="2208" />
+            <district name="龙门县" zipcode="2209" />
+            <district name="其他" zipcode="2210" />
+
+        </city>
+        <city name="梅州市">
+            <district name="梅江区" zipcode="2212" />
+            <district name="梅县区" zipcode="2213" />
+            <district name="大埔县" zipcode="2214" />
+            <district name="丰顺县" zipcode="2215" />
+            <district name="五华县" zipcode="2216" />
+            <district name="平远县" zipcode="2217" />
+            <district name="蕉岭县" zipcode="2218" />
+            <district name="兴宁市" zipcode="2219" />
+            <district name="其他" zipcode="2220" />
+
+        </city>
+        <city name="汕尾市">
+            <district name="城区" zipcode="2222" />
+            <district name="海丰县" zipcode="2223" />
+            <district name="陆河县" zipcode="2224" />
+            <district name="陆丰市" zipcode="2225" />
+            <district name="其他" zipcode="2226" />
+
+        </city>
+        <city name="河源市">
+            <district name="源城区" zipcode="2228" />
+            <district name="紫金县" zipcode="2229" />
+            <district name="龙川县" zipcode="2230" />
+            <district name="连平县" zipcode="2231" />
+            <district name="和平县" zipcode="2232" />
+            <district name="东源县" zipcode="2233" />
+            <district name="其他" zipcode="2234" />
+
+        </city>
+        <city name="阳江市">
+            <district name="江城区" zipcode="2236" />
+            <district name="阳东区" zipcode="2237" />
+            <district name="阳西县" zipcode="2238" />
+            <district name="阳春市" zipcode="2239" />
+            <district name="其他" zipcode="2240" />
+
+        </city>
+        <city name="清远市">
+            <district name="清城区" zipcode="2242" />
+            <district name="清新区" zipcode="2243" />
+            <district name="佛冈县" zipcode="2244" />
+            <district name="阳山县" zipcode="2245" />
+            <district name="连山壮族瑶族自治县" zipcode="2246" />
+            <district name="连南瑶族自治县" zipcode="2247" />
+            <district name="英德市" zipcode="2248" />
+            <district name="连州市" zipcode="2249" />
+            <district name="其他" zipcode="2250" />
+
+        </city>
+        <city name="东莞市">
+            <district name="东城街道办事处" zipcode="2251" />
+            <district name="南城街道办事处" zipcode="2251" />
+            <district name="万江街道办事处" zipcode="2251" />
+            <district name="莞城街道办事处" zipcode="2251" />
+            <district name="石碣镇" zipcode="2251" />
+            <district name="石龙镇" zipcode="2251" />
+            <district name="茶山镇" zipcode="2251" />
+            <district name="石排镇" zipcode="2251" />
+            <district name="企石镇" zipcode="2251" />
+            <district name="横沥镇" zipcode="2251" />
+            <district name="桥头镇" zipcode="2251" />
+            <district name="谢岗镇" zipcode="2251" />
+            <district name="东坑镇" zipcode="2251" />
+            <district name="常平镇" zipcode="2251" />
+            <district name="寮步镇" zipcode="2251" />
+            <district name="樟木头镇" zipcode="2251" />
+            <district name="大朗镇" zipcode="2251" />
+            <district name="黄江镇" zipcode="2251" />
+            <district name="清溪镇" zipcode="2251" />
+            <district name="塘厦镇" zipcode="2251" />
+            <district name="凤岗镇" zipcode="2251" />
+            <district name="大岭山镇" zipcode="2251" />
+            <district name="长安镇" zipcode="2251" />
+            <district name="虎门镇" zipcode="2251" />
+            <district name="厚街镇" zipcode="2251" />
+            <district name="沙田镇" zipcode="2251" />
+            <district name="道滘镇" zipcode="2251" />
+            <district name="洪梅镇" zipcode="2251" />
+            <district name="麻涌镇" zipcode="2251" />
+            <district name="望牛墩镇" zipcode="2251" />
+            <district name="中堂镇" zipcode="2251" />
+            <district name="高埗镇" zipcode="2251" />
+            <district name="松山湖管委会" zipcode="2251" />
+            <district name="虎门港管委会" zipcode="2251" />
+            <district name="东莞生态园" zipcode="2251" />
+            <district name="其他" zipcode="2252" />
+
+        </city>
+        <city name="中山市">
+            <district name="石岐区街道办事处" zipcode="2253" />
+            <district name="东区街道办事处" zipcode="2253" />
+            <district name="火炬开发区街道办事处" zipcode="2253" />
+            <district name="西区街道办事处" zipcode="2253" />
+            <district name="南区街道办事处" zipcode="2253" />
+            <district name="五桂山街道办事处" zipcode="2253" />
+            <district name="小榄镇" zipcode="2253" />
+            <district name="黄圃镇" zipcode="2253" />
+            <district name="民众镇" zipcode="2253" />
+            <district name="东凤镇" zipcode="2253" />
+            <district name="东升镇" zipcode="2253" />
+            <district name="古镇镇" zipcode="2253" />
+            <district name="沙溪镇" zipcode="2253" />
+            <district name="坦洲镇" zipcode="2253" />
+            <district name="港口镇" zipcode="2253" />
+            <district name="三角镇" zipcode="2253" />
+            <district name="横栏镇" zipcode="2253" />
+            <district name="南头镇" zipcode="2253" />
+            <district name="阜沙镇" zipcode="2253" />
+            <district name="南朗镇" zipcode="2253" />
+            <district name="三乡镇" zipcode="2253" />
+            <district name="板芙镇" zipcode="2253" />
+            <district name="大涌镇" zipcode="2253" />
+            <district name="神湾镇" zipcode="2253" />
+            <district name="其他" zipcode="2254" />
+
+        </city>
+        <city name="潮州市">
+            <district name="湘桥区" zipcode="2256" />
+            <district name="潮安区" zipcode="2257" />
+            <district name="饶平县" zipcode="2258" />
+            <district name="其他" zipcode="2259" />
+
+        </city>
+        <city name="揭阳市">
+            <district name="榕城区" zipcode="2261" />
+            <district name="揭东区" zipcode="2262" />
+            <district name="揭西县" zipcode="2263" />
+            <district name="惠来县" zipcode="2264" />
+            <district name="普宁市" zipcode="2265" />
+            <district name="其他" zipcode="2266" />
+
+        </city>
+        <city name="云浮市">
+            <district name="云城区" zipcode="2268" />
+            <district name="云安区" zipcode="2269" />
+            <district name="新兴县" zipcode="2270" />
+            <district name="郁南县" zipcode="2271" />
+            <district name="罗定市" zipcode="2272" />
+            <district name="其他" zipcode="2273" />
+
+        </city>
+    </province>
+    <province name="广西壮族自治区">
+        <city name="南宁市">
+            <district name="兴宁区" zipcode="2275" />
+            <district name="青秀区" zipcode="2276" />
+            <district name="江南区" zipcode="2277" />
+            <district name="西乡塘区" zipcode="2278" />
+            <district name="良庆区" zipcode="2279" />
+            <district name="邕宁区" zipcode="2280" />
+            <district name="武鸣区" zipcode="2281" />
+            <district name="隆安县" zipcode="2282" />
+            <district name="马山县" zipcode="2283" />
+            <district name="上林县" zipcode="2284" />
+            <district name="宾阳县" zipcode="2285" />
+            <district name="横县" zipcode="2286" />
+            <district name="其他" zipcode="2287" />
+
+        </city>
+        <city name="柳州市">
+            <district name="城中区" zipcode="2289" />
+            <district name="鱼峰区" zipcode="2290" />
+            <district name="柳南区" zipcode="2291" />
+            <district name="柳北区" zipcode="2292" />
+            <district name="柳江县" zipcode="2293" />
+            <district name="柳城县" zipcode="2294" />
+            <district name="鹿寨县" zipcode="2295" />
+            <district name="融安县" zipcode="2296" />
+            <district name="融水苗族自治县" zipcode="2297" />
+            <district name="三江侗族自治县" zipcode="2298" />
+            <district name="其他" zipcode="2299" />
+
+        </city>
+        <city name="桂林市">
+            <district name="秀峰区" zipcode="2301" />
+            <district name="叠彩区" zipcode="2302" />
+            <district name="象山区" zipcode="2303" />
+            <district name="七星区" zipcode="2304" />
+            <district name="雁山区" zipcode="2305" />
+            <district name="临桂区" zipcode="2306" />
+            <district name="阳朔县" zipcode="2307" />
+            <district name="灵川县" zipcode="2308" />
+            <district name="全州县" zipcode="2309" />
+            <district name="兴安县" zipcode="2310" />
+            <district name="永福县" zipcode="2311" />
+            <district name="灌阳县" zipcode="2312" />
+            <district name="龙胜各族自治县" zipcode="2313" />
+            <district name="资源县" zipcode="2314" />
+            <district name="平乐县" zipcode="2315" />
+            <district name="荔浦县" zipcode="2316" />
+            <district name="恭城瑶族自治县" zipcode="2317" />
+            <district name="其他" zipcode="2318" />
+
+        </city>
+        <city name="梧州市">
+            <district name="万秀区" zipcode="2320" />
+            <district name="长洲区" zipcode="2321" />
+            <district name="龙圩区" zipcode="2322" />
+            <district name="苍梧县" zipcode="2323" />
+            <district name="藤县" zipcode="2324" />
+            <district name="蒙山县" zipcode="2325" />
+            <district name="岑溪市" zipcode="2326" />
+            <district name="其他" zipcode="2327" />
+
+        </city>
+        <city name="北海市">
+            <district name="海城区" zipcode="2329" />
+            <district name="银海区" zipcode="2330" />
+            <district name="铁山港区" zipcode="2331" />
+            <district name="合浦县" zipcode="2332" />
+            <district name="其他" zipcode="2333" />
+
+        </city>
+        <city name="防城港市">
+            <district name="港口区" zipcode="2335" />
+            <district name="防城区" zipcode="2336" />
+            <district name="上思县" zipcode="2337" />
+            <district name="东兴市" zipcode="2338" />
+            <district name="其他" zipcode="2339" />
+
+        </city>
+        <city name="钦州市">
+            <district name="钦南区" zipcode="2341" />
+            <district name="钦北区" zipcode="2342" />
+            <district name="灵山县" zipcode="2343" />
+            <district name="浦北县" zipcode="2344" />
+            <district name="其他" zipcode="2345" />
+
+        </city>
+        <city name="贵港市">
+            <district name="港北区" zipcode="2347" />
+            <district name="港南区" zipcode="2348" />
+            <district name="覃塘区" zipcode="2349" />
+            <district name="平南县" zipcode="2350" />
+            <district name="桂平市" zipcode="2351" />
+            <district name="其他" zipcode="2352" />
+
+        </city>
+        <city name="玉林市">
+            <district name="玉州区" zipcode="2354" />
+            <district name="福绵区" zipcode="2355" />
+            <district name="容县" zipcode="2356" />
+            <district name="陆川县" zipcode="2357" />
+            <district name="博白县" zipcode="2358" />
+            <district name="兴业县" zipcode="2359" />
+            <district name="北流市" zipcode="2360" />
+            <district name="其他" zipcode="2361" />
+
+        </city>
+        <city name="百色市">
+            <district name="右江区" zipcode="2363" />
+            <district name="田阳县" zipcode="2364" />
+            <district name="田东县" zipcode="2365" />
+            <district name="平果县" zipcode="2366" />
+            <district name="德保县" zipcode="2367" />
+            <district name="那坡县" zipcode="2368" />
+            <district name="凌云县" zipcode="2369" />
+            <district name="乐业县" zipcode="2370" />
+            <district name="田林县" zipcode="2371" />
+            <district name="西林县" zipcode="2372" />
+            <district name="隆林各族自治县" zipcode="2373" />
+            <district name="靖西市" zipcode="2374" />
+            <district name="其他" zipcode="2375" />
+
+        </city>
+        <city name="贺州市">
+            <district name="八步区" zipcode="2377" />
+            <district name="昭平县" zipcode="2378" />
+            <district name="钟山县" zipcode="2379" />
+            <district name="富川瑶族自治县" zipcode="2380" />
+            <district name="其他" zipcode="2381" />
+
+        </city>
+        <city name="河池市">
+            <district name="金城江区" zipcode="2383" />
+            <district name="南丹县" zipcode="2384" />
+            <district name="天峨县" zipcode="2385" />
+            <district name="凤山县" zipcode="2386" />
+            <district name="东兰县" zipcode="2387" />
+            <district name="罗城仫佬族自治县" zipcode="2388" />
+            <district name="环江毛南族自治县" zipcode="2389" />
+            <district name="巴马瑶族自治县" zipcode="2390" />
+            <district name="都安瑶族自治县" zipcode="2391" />
+            <district name="大化瑶族自治县" zipcode="2392" />
+            <district name="宜州市" zipcode="2393" />
+            <district name="其他" zipcode="2394" />
+
+        </city>
+        <city name="来宾市">
+            <district name="兴宾区" zipcode="2396" />
+            <district name="忻城县" zipcode="2397" />
+            <district name="象州县" zipcode="2398" />
+            <district name="武宣县" zipcode="2399" />
+            <district name="金秀瑶族自治县" zipcode="2400" />
+            <district name="合山市" zipcode="2401" />
+            <district name="其他" zipcode="2402" />
+
+        </city>
+        <city name="崇左市">
+            <district name="江州区" zipcode="2404" />
+            <district name="扶绥县" zipcode="2405" />
+            <district name="宁明县" zipcode="2406" />
+            <district name="龙州县" zipcode="2407" />
+            <district name="大新县" zipcode="2408" />
+            <district name="天等县" zipcode="2409" />
+            <district name="凭祥市" zipcode="2410" />
+            <district name="其他" zipcode="2411" />
+
+        </city>
+    </province>
+    <province name="海南省">
+        <city name="海口市">
+            <district name="秀英区" zipcode="2413" />
+            <district name="龙华区" zipcode="2414" />
+            <district name="琼山区" zipcode="2415" />
+            <district name="美兰区" zipcode="2416" />
+            <district name="其他" zipcode="2417" />
+
+        </city>
+        <city name="三亚市">
+            <district name="海棠区" zipcode="2419" />
+            <district name="吉阳区" zipcode="2420" />
+            <district name="天涯区" zipcode="2421" />
+            <district name="崖州区" zipcode="2422" />
+            <district name="其他" zipcode="2423" />
+
+        </city>
+        <city name="三沙市">
+            <district name="西沙群岛" zipcode="2424" />
+            <district name="南沙群岛" zipcode="2425" />
+            <district name="中沙群岛的岛礁及其海域" zipcode="2426" />
+            <district name="其他" zipcode="2427" />
+
+        </city>
+        <city name="省直辖县级行政区划">
+            <district name="五指山市" zipcode="2428" />
+            <district name="琼海市" zipcode="2429" />
+            <district name="儋州市" zipcode="2430" />
+            <district name="文昌市" zipcode="2431" />
+            <district name="万宁市" zipcode="2432" />
+            <district name="东方市" zipcode="2433" />
+            <district name="定安县" zipcode="2434" />
+            <district name="屯昌县" zipcode="2435" />
+            <district name="澄迈县" zipcode="2436" />
+            <district name="临高县" zipcode="2437" />
+            <district name="白沙黎族自治县" zipcode="2438" />
+            <district name="昌江黎族自治县" zipcode="2439" />
+            <district name="乐东黎族自治县" zipcode="2440" />
+            <district name="陵水黎族自治县" zipcode="2441" />
+            <district name="保亭黎族苗族自治县" zipcode="2442" />
+            <district name="琼中黎族苗族自治县" zipcode="2443" />
+            <district name="其他" zipcode="2444" />
+
+        </city>
+    </province>
+    <province name="重庆市">
+        <city name="重庆市">
+            <district name="万州区" zipcode="2445" />
+            <district name="涪陵区" zipcode="2446" />
+            <district name="渝中区" zipcode="2447" />
+            <district name="大渡口区" zipcode="2448" />
+            <district name="江北区" zipcode="2449" />
+            <district name="沙坪坝区" zipcode="2450" />
+            <district name="九龙坡区" zipcode="2451" />
+            <district name="南岸区" zipcode="2452" />
+            <district name="北碚区" zipcode="2453" />
+            <district name="綦江区" zipcode="2454" />
+            <district name="大足区" zipcode="2455" />
+            <district name="渝北区" zipcode="2456" />
+            <district name="巴南区" zipcode="2457" />
+            <district name="黔江区" zipcode="2458" />
+            <district name="长寿区" zipcode="2459" />
+            <district name="江津区" zipcode="2460" />
+            <district name="合川区" zipcode="2461" />
+            <district name="永川区" zipcode="2462" />
+            <district name="南川区" zipcode="2463" />
+            <district name="璧山区" zipcode="2464" />
+            <district name="铜梁区" zipcode="2465" />
+            <district name="潼南区" zipcode="2466" />
+            <district name="荣昌区" zipcode="2467" />
+            <district name="梁平县" zipcode="2468" />
+            <district name="城口县" zipcode="2469" />
+            <district name="丰都县" zipcode="2470" />
+            <district name="垫江县" zipcode="2471" />
+            <district name="武隆县" zipcode="2472" />
+            <district name="忠县" zipcode="2473" />
+            <district name="开县" zipcode="2474" />
+            <district name="云阳县" zipcode="2475" />
+            <district name="奉节县" zipcode="2476" />
+            <district name="巫山县" zipcode="2477" />
+            <district name="巫溪县" zipcode="2478" />
+            <district name="石柱土家族自治县" zipcode="2479" />
+            <district name="秀山土家族苗族自治县" zipcode="2480" />
+            <district name="酉阳土家族苗族自治县" zipcode="2481" />
+            <district name="彭水苗族土家族自治县" zipcode="2482" />
+            <district name="其他" zipcode="2483" />
+
+        </city>
+    </province>
+    <province name="四川省">
+        <city name="成都市">
+            <district name="锦江区" zipcode="2485" />
+            <district name="青羊区" zipcode="2486" />
+            <district name="金牛区" zipcode="2487" />
+            <district name="武侯区" zipcode="2488" />
+            <district name="成华区" zipcode="2489" />
+            <district name="龙泉驿区" zipcode="2490" />
+            <district name="青白江区" zipcode="2491" />
+            <district name="新都区" zipcode="2492" />
+            <district name="温江区" zipcode="2493" />
+            <district name="金堂县" zipcode="2494" />
+            <district name="双流县" zipcode="2495" />
+            <district name="郫县" zipcode="2496" />
+            <district name="大邑县" zipcode="2497" />
+            <district name="蒲江县" zipcode="2498" />
+            <district name="新津县" zipcode="2499" />
+            <district name="都江堰市" zipcode="2500" />
+            <district name="彭州市" zipcode="2501" />
+            <district name="邛崃市" zipcode="2502" />
+            <district name="崇州市" zipcode="2503" />
+            <district name="其他" zipcode="2504" />
+
+        </city>
+        <city name="自贡市">
+            <district name="自流井区" zipcode="2506" />
+            <district name="贡井区" zipcode="2507" />
+            <district name="大安区" zipcode="2508" />
+            <district name="沿滩区" zipcode="2509" />
+            <district name="荣县" zipcode="2510" />
+            <district name="富顺县" zipcode="2511" />
+            <district name="其他" zipcode="2512" />
+
+        </city>
+        <city name="攀枝花市">
+            <district name="东区" zipcode="2514" />
+            <district name="西区" zipcode="2515" />
+            <district name="仁和区" zipcode="2516" />
+            <district name="米易县" zipcode="2517" />
+            <district name="盐边县" zipcode="2518" />
+            <district name="其他" zipcode="2519" />
+
+        </city>
+        <city name="泸州市">
+            <district name="江阳区" zipcode="2521" />
+            <district name="纳溪区" zipcode="2522" />
+            <district name="龙马潭区" zipcode="2523" />
+            <district name="泸县" zipcode="2524" />
+            <district name="合江县" zipcode="2525" />
+            <district name="叙永县" zipcode="2526" />
+            <district name="古蔺县" zipcode="2527" />
+            <district name="其他" zipcode="2528" />
+
+        </city>
+        <city name="德阳市">
+            <district name="旌阳区" zipcode="2530" />
+            <district name="中江县" zipcode="2531" />
+            <district name="罗江县" zipcode="2532" />
+            <district name="广汉市" zipcode="2533" />
+            <district name="什邡市" zipcode="2534" />
+            <district name="绵竹市" zipcode="2535" />
+            <district name="其他" zipcode="2536" />
+
+        </city>
+        <city name="绵阳市">
+            <district name="涪城区" zipcode="2538" />
+            <district name="游仙区" zipcode="2539" />
+            <district name="三台县" zipcode="2540" />
+            <district name="盐亭县" zipcode="2541" />
+            <district name="安县" zipcode="2542" />
+            <district name="梓潼县" zipcode="2543" />
+            <district name="北川羌族自治县" zipcode="2544" />
+            <district name="平武县" zipcode="2545" />
+            <district name="江油市" zipcode="2546" />
+            <district name="其他" zipcode="2547" />
+
+        </city>
+        <city name="广元市">
+            <district name="利州区" zipcode="2549" />
+            <district name="昭化区" zipcode="2550" />
+            <district name="朝天区" zipcode="2551" />
+            <district name="旺苍县" zipcode="2552" />
+            <district name="青川县" zipcode="2553" />
+            <district name="剑阁县" zipcode="2554" />
+            <district name="苍溪县" zipcode="2555" />
+            <district name="其他" zipcode="2556" />
+
+        </city>
+        <city name="遂宁市">
+            <district name="船山区" zipcode="2558" />
+            <district name="安居区" zipcode="2559" />
+            <district name="蓬溪县" zipcode="2560" />
+            <district name="射洪县" zipcode="2561" />
+            <district name="大英县" zipcode="2562" />
+            <district name="其他" zipcode="2563" />
+
+        </city>
+        <city name="内江市">
+            <district name="市中区" zipcode="2565" />
+            <district name="东兴区" zipcode="2566" />
+            <district name="威远县" zipcode="2567" />
+            <district name="资中县" zipcode="2568" />
+            <district name="隆昌县" zipcode="2569" />
+            <district name="其他" zipcode="2570" />
+
+        </city>
+        <city name="乐山市">
+            <district name="市中区" zipcode="2572" />
+            <district name="沙湾区" zipcode="2573" />
+            <district name="五通桥区" zipcode="2574" />
+            <district name="金口河区" zipcode="2575" />
+            <district name="犍为县" zipcode="2576" />
+            <district name="井研县" zipcode="2577" />
+            <district name="夹江县" zipcode="2578" />
+            <district name="沐川县" zipcode="2579" />
+            <district name="峨边彝族自治县" zipcode="2580" />
+            <district name="马边彝族自治县" zipcode="2581" />
+            <district name="峨眉山市" zipcode="2582" />
+            <district name="其他" zipcode="2583" />
+
+        </city>
+        <city name="南充市">
+            <district name="顺庆区" zipcode="2585" />
+            <district name="高坪区" zipcode="2586" />
+            <district name="嘉陵区" zipcode="2587" />
+            <district name="南部县" zipcode="2588" />
+            <district name="营山县" zipcode="2589" />
+            <district name="蓬安县" zipcode="2590" />
+            <district name="仪陇县" zipcode="2591" />
+            <district name="西充县" zipcode="2592" />
+            <district name="阆中市" zipcode="2593" />
+            <district name="其他" zipcode="2594" />
+
+        </city>
+        <city name="眉山市">
+            <district name="东坡区" zipcode="2596" />
+            <district name="彭山区" zipcode="2597" />
+            <district name="仁寿县" zipcode="2598" />
+            <district name="洪雅县" zipcode="2599" />
+            <district name="丹棱县" zipcode="2600" />
+            <district name="青神县" zipcode="2601" />
+            <district name="其他" zipcode="2602" />
+
+        </city>
+        <city name="宜宾市">
+            <district name="翠屏区" zipcode="2604" />
+            <district name="南溪区" zipcode="2605" />
+            <district name="宜宾县" zipcode="2606" />
+            <district name="江安县" zipcode="2607" />
+            <district name="长宁县" zipcode="2608" />
+            <district name="高县" zipcode="2609" />
+            <district name="珙县" zipcode="2610" />
+            <district name="筠连县" zipcode="2611" />
+            <district name="兴文县" zipcode="2612" />
+            <district name="屏山县" zipcode="2613" />
+            <district name="其他" zipcode="2614" />
+
+        </city>
+        <city name="广安市">
+            <district name="广安区" zipcode="2616" />
+            <district name="前锋区" zipcode="2617" />
+            <district name="岳池县" zipcode="2618" />
+            <district name="武胜县" zipcode="2619" />
+            <district name="邻水县" zipcode="2620" />
+            <district name="华蓥市" zipcode="2621" />
+            <district name="其他" zipcode="2622" />
+
+        </city>
+        <city name="达州市">
+            <district name="通川区" zipcode="2624" />
+            <district name="达川区" zipcode="2625" />
+            <district name="宣汉县" zipcode="2626" />
+            <district name="开江县" zipcode="2627" />
+            <district name="大竹县" zipcode="2628" />
+            <district name="渠县" zipcode="2629" />
+            <district name="万源市" zipcode="2630" />
+            <district name="其他" zipcode="2631" />
+
+        </city>
+        <city name="雅安市">
+            <district name="雨城区" zipcode="2633" />
+            <district name="名山区" zipcode="2634" />
+            <district name="荥经县" zipcode="2635" />
+            <district name="汉源县" zipcode="2636" />
+            <district name="石棉县" zipcode="2637" />
+            <district name="天全县" zipcode="2638" />
+            <district name="芦山县" zipcode="2639" />
+            <district name="宝兴县" zipcode="2640" />
+            <district name="其他" zipcode="2641" />
+
+        </city>
+        <city name="巴中市">
+            <district name="巴州区" zipcode="2643" />
+            <district name="恩阳区" zipcode="2644" />
+            <district name="通江县" zipcode="2645" />
+            <district name="南江县" zipcode="2646" />
+            <district name="平昌县" zipcode="2647" />
+            <district name="其他" zipcode="2648" />
+
+        </city>
+        <city name="资阳市">
+            <district name="雁江区" zipcode="2650" />
+            <district name="安岳县" zipcode="2651" />
+            <district name="乐至县" zipcode="2652" />
+            <district name="简阳市" zipcode="2653" />
+            <district name="其他" zipcode="2654" />
+
+        </city>
+        <city name="阿坝藏族羌族自治州">
+            <district name="汶川县" zipcode="2655" />
+            <district name="理县" zipcode="2656" />
+            <district name="茂县" zipcode="2657" />
+            <district name="松潘县" zipcode="2658" />
+            <district name="九寨沟县" zipcode="2659" />
+            <district name="金川县" zipcode="2660" />
+            <district name="小金县" zipcode="2661" />
+            <district name="黑水县" zipcode="2662" />
+            <district name="马尔康县" zipcode="2663" />
+            <district name="壤塘县" zipcode="2664" />
+            <district name="阿坝县" zipcode="2665" />
+            <district name="若尔盖县" zipcode="2666" />
+            <district name="红原县" zipcode="2667" />
+            <district name="其他" zipcode="2668" />
+
+        </city>
+        <city name="甘孜藏族自治州">
+            <district name="康定市" zipcode="2669" />
+            <district name="泸定县" zipcode="2670" />
+            <district name="丹巴县" zipcode="2671" />
+            <district name="九龙县" zipcode="2672" />
+            <district name="雅江县" zipcode="2673" />
+            <district name="道孚县" zipcode="2674" />
+            <district name="炉霍县" zipcode="2675" />
+            <district name="甘孜县" zipcode="2676" />
+            <district name="新龙县" zipcode="2677" />
+            <district name="德格县" zipcode="2678" />
+            <district name="白玉县" zipcode="2679" />
+            <district name="石渠县" zipcode="2680" />
+            <district name="色达县" zipcode="2681" />
+            <district name="理塘县" zipcode="2682" />
+            <district name="巴塘县" zipcode="2683" />
+            <district name="乡城县" zipcode="2684" />
+            <district name="稻城县" zipcode="2685" />
+            <district name="得荣县" zipcode="2686" />
+            <district name="其他" zipcode="2687" />
+
+        </city>
+        <city name="凉山彝族自治州">
+            <district name="西昌市" zipcode="2688" />
+            <district name="木里藏族自治县" zipcode="2689" />
+            <district name="盐源县" zipcode="2690" />
+            <district name="德昌县" zipcode="2691" />
+            <district name="会理县" zipcode="2692" />
+            <district name="会东县" zipcode="2693" />
+            <district name="宁南县" zipcode="2694" />
+            <district name="普格县" zipcode="2695" />
+            <district name="布拖县" zipcode="2696" />
+            <district name="金阳县" zipcode="2697" />
+            <district name="昭觉县" zipcode="2698" />
+            <district name="喜德县" zipcode="2699" />
+            <district name="冕宁县" zipcode="2700" />
+            <district name="越西县" zipcode="2701" />
+            <district name="甘洛县" zipcode="2702" />
+            <district name="美姑县" zipcode="2703" />
+            <district name="雷波县" zipcode="2704" />
+            <district name="其他" zipcode="2705" />
+
+        </city>
+    </province>
+    <province name="贵州省">
+        <city name="贵阳市">
+            <district name="南明区" zipcode="2707" />
+            <district name="云岩区" zipcode="2708" />
+            <district name="花溪区" zipcode="2709" />
+            <district name="乌当区" zipcode="2710" />
+            <district name="白云区" zipcode="2711" />
+            <district name="观山湖区" zipcode="2712" />
+            <district name="开阳县" zipcode="2713" />
+            <district name="息烽县" zipcode="2714" />
+            <district name="修文县" zipcode="2715" />
+            <district name="清镇市" zipcode="2716" />
+            <district name="其他" zipcode="2717" />
+
+        </city>
+        <city name="六盘水市">
+            <district name="钟山区" zipcode="2718" />
+            <district name="六枝特区" zipcode="2719" />
+            <district name="水城县" zipcode="2720" />
+            <district name="盘县" zipcode="2721" />
+            <district name="其他" zipcode="2722" />
+
+        </city>
+        <city name="遵义市">
+            <district name="红花岗区" zipcode="2724" />
+            <district name="汇川区" zipcode="2725" />
+            <district name="遵义县" zipcode="2726" />
+            <district name="桐梓县" zipcode="2727" />
+            <district name="绥阳县" zipcode="2728" />
+            <district name="正安县" zipcode="2729" />
+            <district name="道真仡佬族苗族自治县" zipcode="2730" />
+            <district name="务川仡佬族苗族自治县" zipcode="2731" />
+            <district name="凤冈县" zipcode="2732" />
+            <district name="湄潭县" zipcode="2733" />
+            <district name="余庆县" zipcode="2734" />
+            <district name="习水县" zipcode="2735" />
+            <district name="赤水市" zipcode="2736" />
+            <district name="仁怀市" zipcode="2737" />
+            <district name="其他" zipcode="2738" />
+
+        </city>
+        <city name="安顺市">
+            <district name="西秀区" zipcode="2740" />
+            <district name="平坝区" zipcode="2741" />
+            <district name="普定县" zipcode="2742" />
+            <district name="镇宁布依族苗族自治县" zipcode="2743" />
+            <district name="关岭布依族苗族自治县" zipcode="2744" />
+            <district name="紫云苗族布依族自治县" zipcode="2745" />
+            <district name="其他" zipcode="2746" />
+
+        </city>
+        <city name="毕节市">
+            <district name="七星关区" zipcode="2748" />
+            <district name="大方县" zipcode="2749" />
+            <district name="黔西县" zipcode="2750" />
+            <district name="金沙县" zipcode="2751" />
+            <district name="织金县" zipcode="2752" />
+            <district name="纳雍县" zipcode="2753" />
+            <district name="威宁彝族回族苗族自治县" zipcode="2754" />
+            <district name="赫章县" zipcode="2755" />
+            <district name="其他" zipcode="2756" />
+
+        </city>
+        <city name="铜仁市">
+            <district name="碧江区" zipcode="2758" />
+            <district name="万山区" zipcode="2759" />
+            <district name="江口县" zipcode="2760" />
+            <district name="玉屏侗族自治县" zipcode="2761" />
+            <district name="石阡县" zipcode="2762" />
+            <district name="思南县" zipcode="2763" />
+            <district name="印江土家族苗族自治县" zipcode="2764" />
+            <district name="德江县" zipcode="2765" />
+            <district name="沿河土家族自治县" zipcode="2766" />
+            <district name="松桃苗族自治县" zipcode="2767" />
+            <district name="其他" zipcode="2768" />
+
+        </city>
+        <city name="黔西南布依族苗族自治州">
+            <district name="兴义市" zipcode="2769" />
+            <district name="兴仁县" zipcode="2770" />
+            <district name="普安县" zipcode="2771" />
+            <district name="晴隆县" zipcode="2772" />
+            <district name="贞丰县" zipcode="2773" />
+            <district name="望谟县" zipcode="2774" />
+            <district name="册亨县" zipcode="2775" />
+            <district name="安龙县" zipcode="2776" />
+            <district name="其他" zipcode="2777" />
+
+        </city>
+        <city name="黔东南苗族侗族自治州">
+            <district name="凯里市" zipcode="2778" />
+            <district name="黄平县" zipcode="2779" />
+            <district name="施秉县" zipcode="2780" />
+            <district name="三穗县" zipcode="2781" />
+            <district name="镇远县" zipcode="2782" />
+            <district name="岑巩县" zipcode="2783" />
+            <district name="天柱县" zipcode="2784" />
+            <district name="锦屏县" zipcode="2785" />
+            <district name="剑河县" zipcode="2786" />
+            <district name="台江县" zipcode="2787" />
+            <district name="黎平县" zipcode="2788" />
+            <district name="榕江县" zipcode="2789" />
+            <district name="从江县" zipcode="2790" />
+            <district name="雷山县" zipcode="2791" />
+            <district name="麻江县" zipcode="2792" />
+            <district name="丹寨县" zipcode="2793" />
+            <district name="其他" zipcode="2794" />
+
+        </city>
+        <city name="黔南布依族苗族自治州">
+            <district name="都匀市" zipcode="2795" />
+            <district name="福泉市" zipcode="2796" />
+            <district name="荔波县" zipcode="2797" />
+            <district name="贵定县" zipcode="2798" />
+            <district name="瓮安县" zipcode="2799" />
+            <district name="独山县" zipcode="2800" />
+            <district name="平塘县" zipcode="2801" />
+            <district name="罗甸县" zipcode="2802" />
+            <district name="长顺县" zipcode="2803" />
+            <district name="龙里县" zipcode="2804" />
+            <district name="惠水县" zipcode="2805" />
+            <district name="三都水族自治县" zipcode="2806" />
+            <district name="其他" zipcode="2807" />
+
+        </city>
+    </province>
+    <province name="云南省">
+        <city name="昆明市">
+            <district name="五华区" zipcode="2809" />
+            <district name="盘龙区" zipcode="2810" />
+            <district name="官渡区" zipcode="2811" />
+            <district name="西山区" zipcode="2812" />
+            <district name="东川区" zipcode="2813" />
+            <district name="呈贡区" zipcode="2814" />
+            <district name="晋宁县" zipcode="2815" />
+            <district name="富民县" zipcode="2816" />
+            <district name="宜良县" zipcode="2817" />
+            <district name="石林彝族自治县" zipcode="2818" />
+            <district name="嵩明县" zipcode="2819" />
+            <district name="禄劝彝族苗族自治县" zipcode="2820" />
+            <district name="寻甸回族彝族自治县" zipcode="2821" />
+            <district name="安宁市" zipcode="2822" />
+            <district name="其他" zipcode="2823" />
+
+        </city>
+        <city name="曲靖市">
+            <district name="麒麟区" zipcode="2825" />
+            <district name="马龙县" zipcode="2826" />
+            <district name="陆良县" zipcode="2827" />
+            <district name="师宗县" zipcode="2828" />
+            <district name="罗平县" zipcode="2829" />
+            <district name="富源县" zipcode="2830" />
+            <district name="会泽县" zipcode="2831" />
+            <district name="沾益县" zipcode="2832" />
+            <district name="宣威市" zipcode="2833" />
+            <district name="其他" zipcode="2834" />
+
+        </city>
+        <city name="玉溪市">
+            <district name="红塔区" zipcode="2836" />
+            <district name="江川县" zipcode="2837" />
+            <district name="澄江县" zipcode="2838" />
+            <district name="通海县" zipcode="2839" />
+            <district name="华宁县" zipcode="2840" />
+            <district name="易门县" zipcode="2841" />
+            <district name="峨山彝族自治县" zipcode="2842" />
+            <district name="新平彝族傣族自治县" zipcode="2843" />
+            <district name="元江哈尼族彝族傣族自治县" zipcode="2844" />
+            <district name="其他" zipcode="2845" />
+
+        </city>
+        <city name="保山市">
+            <district name="隆阳区" zipcode="2847" />
+            <district name="施甸县" zipcode="2848" />
+            <district name="龙陵县" zipcode="2849" />
+            <district name="昌宁县" zipcode="2850" />
+            <district name="腾冲市" zipcode="2851" />
+            <district name="其他" zipcode="2852" />
+
+        </city>
+        <city name="昭通市">
+            <district name="昭阳区" zipcode="2854" />
+            <district name="鲁甸县" zipcode="2855" />
+            <district name="巧家县" zipcode="2856" />
+            <district name="盐津县" zipcode="2857" />
+            <district name="大关县" zipcode="2858" />
+            <district name="永善县" zipcode="2859" />
+            <district name="绥江县" zipcode="2860" />
+            <district name="镇雄县" zipcode="2861" />
+            <district name="彝良县" zipcode="2862" />
+            <district name="威信县" zipcode="2863" />
+            <district name="水富县" zipcode="2864" />
+            <district name="其他" zipcode="2865" />
+
+        </city>
+        <city name="丽江市">
+            <district name="古城区" zipcode="2867" />
+            <district name="玉龙纳西族自治县" zipcode="2868" />
+            <district name="永胜县" zipcode="2869" />
+            <district name="华坪县" zipcode="2870" />
+            <district name="宁蒗彝族自治县" zipcode="2871" />
+            <district name="其他" zipcode="2872" />
+
+        </city>
+        <city name="普洱市">
+            <district name="思茅区" zipcode="2874" />
+            <district name="宁洱哈尼族彝族自治县" zipcode="2875" />
+            <district name="墨江哈尼族自治县" zipcode="2876" />
+            <district name="景东彝族自治县" zipcode="2877" />
+            <district name="景谷傣族彝族自治县" zipcode="2878" />
+            <district name="镇沅彝族哈尼族拉祜族自治县" zipcode="2879" />
+            <district name="江城哈尼族彝族自治县" zipcode="2880" />
+            <district name="孟连傣族拉祜族佤族自治县" zipcode="2881" />
+            <district name="澜沧拉祜族自治县" zipcode="2882" />
+            <district name="西盟佤族自治县" zipcode="2883" />
+            <district name="其他" zipcode="2884" />
+
+        </city>
+        <city name="临沧市">
+            <district name="临翔区" zipcode="2886" />
+            <district name="凤庆县" zipcode="2887" />
+            <district name="云县" zipcode="2888" />
+            <district name="永德县" zipcode="2889" />
+            <district name="镇康县" zipcode="2890" />
+            <district name="双江拉祜族佤族布朗族傣族自治县" zipcode="2891" />
+            <district name="耿马傣族佤族自治县" zipcode="2892" />
+            <district name="沧源佤族自治县" zipcode="2893" />
+            <district name="其他" zipcode="2894" />
+
+        </city>
+        <city name="楚雄彝族自治州">
+            <district name="楚雄市" zipcode="2895" />
+            <district name="双柏县" zipcode="2896" />
+            <district name="牟定县" zipcode="2897" />
+            <district name="南华县" zipcode="2898" />
+            <district name="姚安县" zipcode="2899" />
+            <district name="大姚县" zipcode="2900" />
+            <district name="永仁县" zipcode="2901" />
+            <district name="元谋县" zipcode="2902" />
+            <district name="武定县" zipcode="2903" />
+            <district name="禄丰县" zipcode="2904" />
+            <district name="其他" zipcode="2905" />
+
+        </city>
+        <city name="红河哈尼族彝族自治州">
+            <district name="个旧市" zipcode="2906" />
+            <district name="开远市" zipcode="2907" />
+            <district name="蒙自市" zipcode="2908" />
+            <district name="弥勒市" zipcode="2909" />
+            <district name="屏边苗族自治县" zipcode="2910" />
+            <district name="建水县" zipcode="2911" />
+            <district name="石屏县" zipcode="2912" />
+            <district name="泸西县" zipcode="2913" />
+            <district name="元阳县" zipcode="2914" />
+            <district name="红河县" zipcode="2915" />
+            <district name="金平苗族瑶族傣族自治县" zipcode="2916" />
+            <district name="绿春县" zipcode="2917" />
+            <district name="河口瑶族自治县" zipcode="2918" />
+            <district name="其他" zipcode="2919" />
+
+        </city>
+        <city name="文山壮族苗族自治州">
+            <district name="文山市" zipcode="2920" />
+            <district name="砚山县" zipcode="2921" />
+            <district name="西畴县" zipcode="2922" />
+            <district name="麻栗坡县" zipcode="2923" />
+            <district name="马关县" zipcode="2924" />
+            <district name="丘北县" zipcode="2925" />
+            <district name="广南县" zipcode="2926" />
+            <district name="富宁县" zipcode="2927" />
+            <district name="其他" zipcode="2928" />
+
+        </city>
+        <city name="西双版纳傣族自治州">
+            <district name="景洪市" zipcode="2929" />
+            <district name="勐海县" zipcode="2930" />
+            <district name="勐腊县" zipcode="2931" />
+            <district name="其他" zipcode="2932" />
+
+        </city>
+        <city name="大理白族自治州">
+            <district name="大理市" zipcode="2933" />
+            <district name="漾濞彝族自治县" zipcode="2934" />
+            <district name="祥云县" zipcode="2935" />
+            <district name="宾川县" zipcode="2936" />
+            <district name="弥渡县" zipcode="2937" />
+            <district name="南涧彝族自治县" zipcode="2938" />
+            <district name="巍山彝族回族自治县" zipcode="2939" />
+            <district name="永平县" zipcode="2940" />
+            <district name="云龙县" zipcode="2941" />
+            <district name="洱源县" zipcode="2942" />
+            <district name="剑川县" zipcode="2943" />
+            <district name="鹤庆县" zipcode="2944" />
+            <district name="其他" zipcode="2945" />
+
+        </city>
+        <city name="德宏傣族景颇族自治州">
+            <district name="瑞丽市" zipcode="2946" />
+            <district name="芒市" zipcode="2947" />
+            <district name="梁河县" zipcode="2948" />
+            <district name="盈江县" zipcode="2949" />
+            <district name="陇川县" zipcode="2950" />
+            <district name="其他" zipcode="2951" />
+
+        </city>
+        <city name="怒江傈僳族自治州">
+            <district name="泸水县" zipcode="2952" />
+            <district name="福贡县" zipcode="2953" />
+            <district name="贡山独龙族怒族自治县" zipcode="2954" />
+            <district name="兰坪白族普米族自治县" zipcode="2955" />
+            <district name="其他" zipcode="2956" />
+
+        </city>
+        <city name="迪庆藏族自治州">
+            <district name="香格里拉市" zipcode="2957" />
+            <district name="德钦县" zipcode="2958" />
+            <district name="维西傈僳族自治县" zipcode="2959" />
+            <district name="其他" zipcode="2960" />
+
+        </city>
+    </province>
+    <province name="西藏自治区">
+        <city name="拉萨市">
+            <district name="城关区" zipcode="2962" />
+            <district name="林周县" zipcode="2963" />
+            <district name="当雄县" zipcode="2964" />
+            <district name="尼木县" zipcode="2965" />
+            <district name="曲水县" zipcode="2966" />
+            <district name="堆龙德庆县" zipcode="2967" />
+            <district name="达孜县" zipcode="2968" />
+            <district name="墨竹工卡县" zipcode="2969" />
+            <district name="其他" zipcode="2970" />
+
+        </city>
+        <city name="日喀则市">
+            <district name="桑珠孜区" zipcode="2971" />
+            <district name="南木林县" zipcode="2972" />
+            <district name="江孜县" zipcode="2973" />
+            <district name="定日县" zipcode="2974" />
+            <district name="萨迦县" zipcode="2975" />
+            <district name="拉孜县" zipcode="2976" />
+            <district name="昂仁县" zipcode="2977" />
+            <district name="谢通门县" zipcode="2978" />
+            <district name="白朗县" zipcode="2979" />
+            <district name="仁布县" zipcode="2980" />
+            <district name="康马县" zipcode="2981" />
+            <district name="定结县" zipcode="2982" />
+            <district name="仲巴县" zipcode="2983" />
+            <district name="亚东县" zipcode="2984" />
+            <district name="吉隆县" zipcode="2985" />
+            <district name="聂拉木县" zipcode="2986" />
+            <district name="萨嘎县" zipcode="2987" />
+            <district name="岗巴县" zipcode="2988" />
+            <district name="其他" zipcode="2989" />
+
+        </city>
+        <city name="昌都市">
+            <district name="卡若区" zipcode="2990" />
+            <district name="江达县" zipcode="2991" />
+            <district name="贡觉县" zipcode="2992" />
+            <district name="类乌齐县" zipcode="2993" />
+            <district name="丁青县" zipcode="2994" />
+            <district name="察雅县" zipcode="2995" />
+            <district name="八宿县" zipcode="2996" />
+            <district name="左贡县" zipcode="2997" />
+            <district name="芒康县" zipcode="2998" />
+            <district name="洛隆县" zipcode="2999" />
+            <district name="边坝县" zipcode="3000" />
+            <district name="其他" zipcode="3001" />
+
+        </city>
+        <city name="林芝市">
+            <district name="巴宜区" zipcode="3002" />
+            <district name="工布江达县" zipcode="3003" />
+            <district name="米林县" zipcode="3004" />
+            <district name="墨脱县" zipcode="3005" />
+            <district name="波密县" zipcode="3006" />
+            <district name="察隅县" zipcode="3007" />
+            <district name="朗县" zipcode="3008" />
+            <district name="其他" zipcode="3009" />
+
+        </city>
+        <city name="山南地区">
+            <district name="乃东县" zipcode="3010" />
+            <district name="扎囊县" zipcode="3011" />
+            <district name="贡嘎县" zipcode="3012" />
+            <district name="桑日县" zipcode="3013" />
+            <district name="琼结县" zipcode="3014" />
+            <district name="曲松县" zipcode="3015" />
+            <district name="措美县" zipcode="3016" />
+            <district name="洛扎县" zipcode="3017" />
+            <district name="加查县" zipcode="3018" />
+            <district name="隆子县" zipcode="3019" />
+            <district name="错那县" zipcode="3020" />
+            <district name="浪卡子县" zipcode="3021" />
+            <district name="其他" zipcode="3022" />
+
+        </city>
+        <city name="那曲地区">
+            <district name="那曲县" zipcode="3023" />
+            <district name="嘉黎县" zipcode="3024" />
+            <district name="比如县" zipcode="3025" />
+            <district name="聂荣县" zipcode="3026" />
+            <district name="安多县" zipcode="3027" />
+            <district name="申扎县" zipcode="3028" />
+            <district name="索县" zipcode="3029" />
+            <district name="班戈县" zipcode="3030" />
+            <district name="巴青县" zipcode="3031" />
+            <district name="尼玛县" zipcode="3032" />
+            <district name="双湖县" zipcode="3033" />
+            <district name="其他" zipcode="3034" />
+
+        </city>
+        <city name="阿里地区">
+            <district name="普兰县" zipcode="3035" />
+            <district name="札达县" zipcode="3036" />
+            <district name="噶尔县" zipcode="3037" />
+            <district name="日土县" zipcode="3038" />
+            <district name="革吉县" zipcode="3039" />
+            <district name="改则县" zipcode="3040" />
+            <district name="措勤县" zipcode="3041" />
+            <district name="其他" zipcode="3042" />
+
+        </city>
+    </province>
+    <province name="陕西省">
+        <city name="西安市">
+            <district name="新城区" zipcode="3044" />
+            <district name="碑林区" zipcode="3045" />
+            <district name="莲湖区" zipcode="3046" />
+            <district name="灞桥区" zipcode="3047" />
+            <district name="未央区" zipcode="3048" />
+            <district name="雁塔区" zipcode="3049" />
+            <district name="阎良区" zipcode="3050" />
+            <district name="临潼区" zipcode="3051" />
+            <district name="长安区" zipcode="3052" />
+            <district name="高陵区" zipcode="3053" />
+            <district name="蓝田县" zipcode="3054" />
+            <district name="周至县" zipcode="3055" />
+            <district name="户县" zipcode="3056" />
+            <district name="其他" zipcode="3057" />
+
+        </city>
+        <city name="铜川市">
+            <district name="王益区" zipcode="3059" />
+            <district name="印台区" zipcode="3060" />
+            <district name="耀州区" zipcode="3061" />
+            <district name="宜君县" zipcode="3062" />
+            <district name="其他" zipcode="3063" />
+
+        </city>
+        <city name="宝鸡市">
+            <district name="渭滨区" zipcode="3065" />
+            <district name="金台区" zipcode="3066" />
+            <district name="陈仓区" zipcode="3067" />
+            <district name="凤翔县" zipcode="3068" />
+            <district name="岐山县" zipcode="3069" />
+            <district name="扶风县" zipcode="3070" />
+            <district name="眉县" zipcode="3071" />
+            <district name="陇县" zipcode="3072" />
+            <district name="千阳县" zipcode="3073" />
+            <district name="麟游县" zipcode="3074" />
+            <district name="凤县" zipcode="3075" />
+            <district name="太白县" zipcode="3076" />
+            <district name="其他" zipcode="3077" />
+
+        </city>
+        <city name="咸阳市">
+            <district name="秦都区" zipcode="3079" />
+            <district name="杨陵区" zipcode="3080" />
+            <district name="渭城区" zipcode="3081" />
+            <district name="三原县" zipcode="3082" />
+            <district name="泾阳县" zipcode="3083" />
+            <district name="乾县" zipcode="3084" />
+            <district name="礼泉县" zipcode="3085" />
+            <district name="永寿县" zipcode="3086" />
+            <district name="彬县" zipcode="3087" />
+            <district name="长武县" zipcode="3088" />
+            <district name="旬邑县" zipcode="3089" />
+            <district name="淳化县" zipcode="3090" />
+            <district name="武功县" zipcode="3091" />
+            <district name="兴平市" zipcode="3092" />
+            <district name="其他" zipcode="3093" />
+
+        </city>
+        <city name="渭南市">
+            <district name="临渭区" zipcode="3095" />
+            <district name="华县" zipcode="3096" />
+            <district name="潼关县" zipcode="3097" />
+            <district name="大荔县" zipcode="3098" />
+            <district name="合阳县" zipcode="3099" />
+            <district name="澄城县" zipcode="3100" />
+            <district name="蒲城县" zipcode="3101" />
+            <district name="白水县" zipcode="3102" />
+            <district name="富平县" zipcode="3103" />
+            <district name="韩城市" zipcode="3104" />
+            <district name="华阴市" zipcode="3105" />
+            <district name="其他" zipcode="3106" />
+
+        </city>
+        <city name="延安市">
+            <district name="宝塔区" zipcode="3108" />
+            <district name="延长县" zipcode="3109" />
+            <district name="延川县" zipcode="3110" />
+            <district name="子长县" zipcode="3111" />
+            <district name="安塞县" zipcode="3112" />
+            <district name="志丹县" zipcode="3113" />
+            <district name="吴起县" zipcode="3114" />
+            <district name="甘泉县" zipcode="3115" />
+            <district name="富县" zipcode="3116" />
+            <district name="洛川县" zipcode="3117" />
+            <district name="宜川县" zipcode="3118" />
+            <district name="黄龙县" zipcode="3119" />
+            <district name="黄陵县" zipcode="3120" />
+            <district name="其他" zipcode="3121" />
+
+        </city>
+        <city name="汉中市">
+            <district name="汉台区" zipcode="3123" />
+            <district name="南郑县" zipcode="3124" />
+            <district name="城固县" zipcode="3125" />
+            <district name="洋县" zipcode="3126" />
+            <district name="西乡县" zipcode="3127" />
+            <district name="勉县" zipcode="3128" />
+            <district name="宁强县" zipcode="3129" />
+            <district name="略阳县" zipcode="3130" />
+            <district name="镇巴县" zipcode="3131" />
+            <district name="留坝县" zipcode="3132" />
+            <district name="佛坪县" zipcode="3133" />
+            <district name="其他" zipcode="3134" />
+
+        </city>
+        <city name="榆林市">
+            <district name="榆阳区" zipcode="3136" />
+            <district name="神木县" zipcode="3137" />
+            <district name="府谷县" zipcode="3138" />
+            <district name="横山县" zipcode="3139" />
+            <district name="靖边县" zipcode="3140" />
+            <district name="定边县" zipcode="3141" />
+            <district name="绥德县" zipcode="3142" />
+            <district name="米脂县" zipcode="3143" />
+            <district name="佳县" zipcode="3144" />
+            <district name="吴堡县" zipcode="3145" />
+            <district name="清涧县" zipcode="3146" />
+            <district name="子洲县" zipcode="3147" />
+            <district name="其他" zipcode="3148" />
+
+        </city>
+        <city name="安康市">
+            <district name="汉滨区" zipcode="3150" />
+            <district name="汉阴县" zipcode="3151" />
+            <district name="石泉县" zipcode="3152" />
+            <district name="宁陕县" zipcode="3153" />
+            <district name="紫阳县" zipcode="3154" />
+            <district name="岚皋县" zipcode="3155" />
+            <district name="平利县" zipcode="3156" />
+            <district name="镇坪县" zipcode="3157" />
+            <district name="旬阳县" zipcode="3158" />
+            <district name="白河县" zipcode="3159" />
+            <district name="其他" zipcode="3160" />
+
+        </city>
+        <city name="商洛市">
+            <district name="商州区" zipcode="3162" />
+            <district name="洛南县" zipcode="3163" />
+            <district name="丹凤县" zipcode="3164" />
+            <district name="商南县" zipcode="3165" />
+            <district name="山阳县" zipcode="3166" />
+            <district name="镇安县" zipcode="3167" />
+            <district name="柞水县" zipcode="3168" />
+            <district name="其他" zipcode="3169" />
+
+        </city>
+    </province>
+    <province name="甘肃省">
+        <city name="兰州市">
+            <district name="城关区" zipcode="3171" />
+            <district name="七里河区" zipcode="3172" />
+            <district name="西固区" zipcode="3173" />
+            <district name="安宁区" zipcode="3174" />
+            <district name="红古区" zipcode="3175" />
+            <district name="永登县" zipcode="3176" />
+            <district name="皋兰县" zipcode="3177" />
+            <district name="榆中县" zipcode="3178" />
+            <district name="其他" zipcode="3179" />
+
+        </city>
+        <city name="嘉峪关市">
+            <district name="其他" zipcode="3181" />
+
+        </city>
+        <city name="金昌市">
+            <district name="金川区" zipcode="3183" />
+            <district name="永昌县" zipcode="3184" />
+            <district name="其他" zipcode="3185" />
+
+        </city>
+        <city name="白银市">
+            <district name="白银区" zipcode="3187" />
+            <district name="平川区" zipcode="3188" />
+            <district name="靖远县" zipcode="3189" />
+            <district name="会宁县" zipcode="3190" />
+            <district name="景泰县" zipcode="3191" />
+            <district name="其他" zipcode="3192" />
+
+        </city>
+        <city name="天水市">
+            <district name="秦州区" zipcode="3194" />
+            <district name="麦积区" zipcode="3195" />
+            <district name="清水县" zipcode="3196" />
+            <district name="秦安县" zipcode="3197" />
+            <district name="甘谷县" zipcode="3198" />
+            <district name="武山县" zipcode="3199" />
+            <district name="张家川回族自治县" zipcode="3200" />
+            <district name="其他" zipcode="3201" />
+
+        </city>
+        <city name="武威市">
+            <district name="凉州区" zipcode="3203" />
+            <district name="民勤县" zipcode="3204" />
+            <district name="古浪县" zipcode="3205" />
+            <district name="天祝藏族自治县" zipcode="3206" />
+            <district name="其他" zipcode="3207" />
+
+        </city>
+        <city name="张掖市">
+            <district name="甘州区" zipcode="3209" />
+            <district name="肃南裕固族自治县" zipcode="3210" />
+            <district name="民乐县" zipcode="3211" />
+            <district name="临泽县" zipcode="3212" />
+            <district name="高台县" zipcode="3213" />
+            <district name="山丹县" zipcode="3214" />
+            <district name="其他" zipcode="3215" />
+
+        </city>
+        <city name="平凉市">
+            <district name="崆峒区" zipcode="3217" />
+            <district name="泾川县" zipcode="3218" />
+            <district name="灵台县" zipcode="3219" />
+            <district name="崇信县" zipcode="3220" />
+            <district name="华亭县" zipcode="3221" />
+            <district name="庄浪县" zipcode="3222" />
+            <district name="静宁县" zipcode="3223" />
+            <district name="其他" zipcode="3224" />
+
+        </city>
+        <city name="酒泉市">
+            <district name="肃州区" zipcode="3226" />
+            <district name="金塔县" zipcode="3227" />
+            <district name="瓜州县" zipcode="3228" />
+            <district name="肃北蒙古族自治县" zipcode="3229" />
+            <district name="阿克塞哈萨克族自治县" zipcode="3230" />
+            <district name="玉门市" zipcode="3231" />
+            <district name="敦煌市" zipcode="3232" />
+            <district name="其他" zipcode="3233" />
+
+        </city>
+        <city name="庆阳市">
+            <district name="西峰区" zipcode="3235" />
+            <district name="庆城县" zipcode="3236" />
+            <district name="环县" zipcode="3237" />
+            <district name="华池县" zipcode="3238" />
+            <district name="合水县" zipcode="3239" />
+            <district name="正宁县" zipcode="3240" />
+            <district name="宁县" zipcode="3241" />
+            <district name="镇原县" zipcode="3242" />
+            <district name="其他" zipcode="3243" />
+
+        </city>
+        <city name="定西市">
+            <district name="安定区" zipcode="3245" />
+            <district name="通渭县" zipcode="3246" />
+            <district name="陇西县" zipcode="3247" />
+            <district name="渭源县" zipcode="3248" />
+            <district name="临洮县" zipcode="3249" />
+            <district name="漳县" zipcode="3250" />
+            <district name="岷县" zipcode="3251" />
+            <district name="其他" zipcode="3252" />
+
+        </city>
+        <city name="陇南市">
+            <district name="武都区" zipcode="3254" />
+            <district name="成县" zipcode="3255" />
+            <district name="文县" zipcode="3256" />
+            <district name="宕昌县" zipcode="3257" />
+            <district name="康县" zipcode="3258" />
+            <district name="西和县" zipcode="3259" />
+            <district name="礼县" zipcode="3260" />
+            <district name="徽县" zipcode="3261" />
+            <district name="两当县" zipcode="3262" />
+            <district name="其他" zipcode="3263" />
+
+        </city>
+        <city name="临夏回族自治州">
+            <district name="临夏市" zipcode="3264" />
+            <district name="临夏县" zipcode="3265" />
+            <district name="康乐县" zipcode="3266" />
+            <district name="永靖县" zipcode="3267" />
+            <district name="广河县" zipcode="3268" />
+            <district name="和政县" zipcode="3269" />
+            <district name="东乡族自治县" zipcode="3270" />
+            <district name="积石山保安族东乡族撒拉族自治县" zipcode="3271" />
+            <district name="其他" zipcode="3272" />
+
+        </city>
+        <city name="甘南藏族自治州">
+            <district name="合作市" zipcode="3273" />
+            <district name="临潭县" zipcode="3274" />
+            <district name="卓尼县" zipcode="3275" />
+            <district name="舟曲县" zipcode="3276" />
+            <district name="迭部县" zipcode="3277" />
+            <district name="玛曲县" zipcode="3278" />
+            <district name="碌曲县" zipcode="3279" />
+            <district name="夏河县" zipcode="3280" />
+            <district name="其他" zipcode="3281" />
+
+        </city>
+    </province>
+    <province name="青海省">
+        <city name="西宁市">
+            <district name="城东区" zipcode="3283" />
+            <district name="城中区" zipcode="3284" />
+            <district name="城西区" zipcode="3285" />
+            <district name="城北区" zipcode="3286" />
+            <district name="大通回族土族自治县" zipcode="3287" />
+            <district name="湟中县" zipcode="3288" />
+            <district name="湟源县" zipcode="3289" />
+            <district name="其他" zipcode="3290" />
+
+        </city>
+        <city name="海东市">
+            <district name="乐都区" zipcode="3291" />
+            <district name="平安区" zipcode="3292" />
+            <district name="民和回族土族自治县" zipcode="3293" />
+            <district name="互助土族自治县" zipcode="3294" />
+            <district name="化隆回族自治县" zipcode="3295" />
+            <district name="循化撒拉族自治县" zipcode="3296" />
+            <district name="其他" zipcode="3297" />
+
+        </city>
+        <city name="海北藏族自治州">
+            <district name="门源回族自治县" zipcode="3298" />
+            <district name="祁连县" zipcode="3299" />
+            <district name="海晏县" zipcode="3300" />
+            <district name="刚察县" zipcode="3301" />
+            <district name="其他" zipcode="3302" />
+
+        </city>
+        <city name="黄南藏族自治州">
+            <district name="同仁县" zipcode="3303" />
+            <district name="尖扎县" zipcode="3304" />
+            <district name="泽库县" zipcode="3305" />
+            <district name="河南蒙古族自治县" zipcode="3306" />
+            <district name="其他" zipcode="3307" />
+
+        </city>
+        <city name="海南藏族自治州">
+            <district name="共和县" zipcode="3308" />
+            <district name="同德县" zipcode="3309" />
+            <district name="贵德县" zipcode="3310" />
+            <district name="兴海县" zipcode="3311" />
+            <district name="贵南县" zipcode="3312" />
+            <district name="其他" zipcode="3313" />
+
+        </city>
+        <city name="果洛藏族自治州">
+            <district name="玛沁县" zipcode="3314" />
+            <district name="班玛县" zipcode="3315" />
+            <district name="甘德县" zipcode="3316" />
+            <district name="达日县" zipcode="3317" />
+            <district name="久治县" zipcode="3318" />
+            <district name="玛多县" zipcode="3319" />
+            <district name="其他" zipcode="3320" />
+
+        </city>
+        <city name="玉树藏族自治州">
+            <district name="玉树市" zipcode="3321" />
+            <district name="杂多县" zipcode="3322" />
+            <district name="称多县" zipcode="3323" />
+            <district name="治多县" zipcode="3324" />
+            <district name="囊谦县" zipcode="3325" />
+            <district name="曲麻莱县" zipcode="3326" />
+            <district name="其他" zipcode="3327" />
+
+        </city>
+        <city name="海西蒙古族藏族自治州">
+            <district name="格尔木市" zipcode="3328" />
+            <district name="德令哈市" zipcode="3329" />
+            <district name="乌兰县" zipcode="3330" />
+            <district name="都兰县" zipcode="3331" />
+            <district name="天峻县" zipcode="3332" />
+            <district name="其他" zipcode="3333" />
+
+        </city>
+    </province>
+    <province name="宁夏回族自治区">
+        <city name="银川市">
+            <district name="兴庆区" zipcode="3335" />
+            <district name="西夏区" zipcode="3336" />
+            <district name="金凤区" zipcode="3337" />
+            <district name="永宁县" zipcode="3338" />
+            <district name="贺兰县" zipcode="3339" />
+            <district name="灵武市" zipcode="3340" />
+            <district name="其他" zipcode="3341" />
+
+        </city>
+        <city name="石嘴山市">
+            <district name="大武口区" zipcode="3343" />
+            <district name="惠农区" zipcode="3344" />
+            <district name="平罗县" zipcode="3345" />
+            <district name="其他" zipcode="3346" />
+
+        </city>
+        <city name="吴忠市">
+            <district name="利通区" zipcode="3348" />
+            <district name="红寺堡区" zipcode="3349" />
+            <district name="盐池县" zipcode="3350" />
+            <district name="同心县" zipcode="3351" />
+            <district name="青铜峡市" zipcode="3352" />
+            <district name="其他" zipcode="3353" />
+
+        </city>
+        <city name="固原市">
+            <district name="原州区" zipcode="3355" />
+            <district name="西吉县" zipcode="3356" />
+            <district name="隆德县" zipcode="3357" />
+            <district name="泾源县" zipcode="3358" />
+            <district name="彭阳县" zipcode="3359" />
+            <district name="其他" zipcode="3360" />
+
+        </city>
+        <city name="中卫市">
+            <district name="沙坡头区" zipcode="3362" />
+            <district name="中宁县" zipcode="3363" />
+            <district name="海原县" zipcode="3364" />
+            <district name="其他" zipcode="3365" />
+
+        </city>
+    </province>
+    <province name="新疆维吾尔自治区">
+        <city name="乌鲁木齐市">
+            <district name="天山区" zipcode="3367" />
+            <district name="沙依巴克区" zipcode="3368" />
+            <district name="新市区" zipcode="3369" />
+            <district name="水磨沟区" zipcode="3370" />
+            <district name="头屯河区" zipcode="3371" />
+            <district name="达坂城区" zipcode="3372" />
+            <district name="米东区" zipcode="3373" />
+            <district name="乌鲁木齐县" zipcode="3374" />
+            <district name="其他" zipcode="3375" />
+
+        </city>
+        <city name="克拉玛依市">
+            <district name="独山子区" zipcode="3377" />
+            <district name="克拉玛依区" zipcode="3378" />
+            <district name="白碱滩区" zipcode="3379" />
+            <district name="乌尔禾区" zipcode="3380" />
+            <district name="其他" zipcode="3381" />
+
+        </city>
+        <city name="吐鲁番市">
+            <district name="高昌区" zipcode="3382" />
+            <district name="鄯善县" zipcode="3383" />
+            <district name="托克逊县" zipcode="3384" />
+            <district name="其他" zipcode="3385" />
+
+        </city>
+        <city name="哈密地区">
+            <district name="哈密市" zipcode="3386" />
+            <district name="巴里坤哈萨克自治县" zipcode="3387" />
+            <district name="伊吾县" zipcode="3388" />
+            <district name="其他" zipcode="3389" />
+
+        </city>
+        <city name="昌吉回族自治州">
+            <district name="昌吉市" zipcode="3390" />
+            <district name="阜康市" zipcode="3391" />
+            <district name="呼图壁县" zipcode="3392" />
+            <district name="玛纳斯县" zipcode="3393" />
+            <district name="奇台县" zipcode="3394" />
+            <district name="吉木萨尔县" zipcode="3395" />
+            <district name="木垒哈萨克自治县" zipcode="3396" />
+            <district name="其他" zipcode="3397" />
+
+        </city>
+        <city name="博尔塔拉蒙古自治州">
+            <district name="博乐市" zipcode="3398" />
+            <district name="阿拉山口市" zipcode="3399" />
+            <district name="精河县" zipcode="3400" />
+            <district name="温泉县" zipcode="3401" />
+            <district name="其他" zipcode="3402" />
+
+        </city>
+        <city name="巴音郭楞蒙古自治州">
+            <district name="库尔勒市" zipcode="3403" />
+            <district name="轮台县" zipcode="3404" />
+            <district name="尉犁县" zipcode="3405" />
+            <district name="若羌县" zipcode="3406" />
+            <district name="且末县" zipcode="3407" />
+            <district name="焉耆回族自治县" zipcode="3408" />
+            <district name="和静县" zipcode="3409" />
+            <district name="和硕县" zipcode="3410" />
+            <district name="博湖县" zipcode="3411" />
+            <district name="其他" zipcode="3412" />
+
+        </city>
+        <city name="阿克苏地区">
+            <district name="阿克苏市" zipcode="3413" />
+            <district name="温宿县" zipcode="3414" />
+            <district name="库车县" zipcode="3415" />
+            <district name="沙雅县" zipcode="3416" />
+            <district name="新和县" zipcode="3417" />
+            <district name="拜城县" zipcode="3418" />
+            <district name="乌什县" zipcode="3419" />
+            <district name="阿瓦提县" zipcode="3420" />
+            <district name="柯坪县" zipcode="3421" />
+            <district name="其他" zipcode="3422" />
+
+        </city>
+        <city name="克孜勒苏柯尔克孜自治州">
+            <district name="阿图什市" zipcode="3423" />
+            <district name="阿克陶县" zipcode="3424" />
+            <district name="阿合奇县" zipcode="3425" />
+            <district name="乌恰县" zipcode="3426" />
+            <district name="其他" zipcode="3427" />
+
+        </city>
+        <city name="喀什地区">
+            <district name="喀什市" zipcode="3428" />
+            <district name="疏附县" zipcode="3429" />
+            <district name="疏勒县" zipcode="3430" />
+            <district name="英吉沙县" zipcode="3431" />
+            <district name="泽普县" zipcode="3432" />
+            <district name="莎车县" zipcode="3433" />
+            <district name="叶城县" zipcode="3434" />
+            <district name="麦盖提县" zipcode="3435" />
+            <district name="岳普湖县" zipcode="3436" />
+            <district name="伽师县" zipcode="3437" />
+            <district name="巴楚县" zipcode="3438" />
+            <district name="塔什库尔干塔吉克自治县" zipcode="3439" />
+            <district name="其他" zipcode="3440" />
+
+        </city>
+        <city name="和田地区">
+            <district name="和田市" zipcode="3441" />
+            <district name="和田县" zipcode="3442" />
+            <district name="墨玉县" zipcode="3443" />
+            <district name="皮山县" zipcode="3444" />
+            <district name="洛浦县" zipcode="3445" />
+            <district name="策勒县" zipcode="3446" />
+            <district name="于田县" zipcode="3447" />
+            <district name="民丰县" zipcode="3448" />
+            <district name="其他" zipcode="3449" />
+
+        </city>
+        <city name="伊犁哈萨克自治州">
+            <district name="伊宁市" zipcode="3450" />
+            <district name="奎屯市" zipcode="3451" />
+            <district name="霍尔果斯市" zipcode="3452" />
+            <district name="伊宁县" zipcode="3453" />
+            <district name="察布查尔锡伯自治县" zipcode="3454" />
+            <district name="霍城县" zipcode="3455" />
+            <district name="巩留县" zipcode="3456" />
+            <district name="新源县" zipcode="3457" />
+            <district name="昭苏县" zipcode="3458" />
+            <district name="特克斯县" zipcode="3459" />
+            <district name="尼勒克县" zipcode="3460" />
+            <district name="其他" zipcode="3461" />
+
+        </city>
+        <city name="塔城地区">
+            <district name="塔城市" zipcode="3462" />
+            <district name="乌苏市" zipcode="3463" />
+            <district name="额敏县" zipcode="3464" />
+            <district name="沙湾县" zipcode="3465" />
+            <district name="托里县" zipcode="3466" />
+            <district name="裕民县" zipcode="3467" />
+            <district name="和布克赛尔蒙古自治县" zipcode="3468" />
+            <district name="其他" zipcode="3469" />
+
+        </city>
+        <city name="阿勒泰地区">
+            <district name="阿勒泰市" zipcode="3470" />
+            <district name="布尔津县" zipcode="3471" />
+            <district name="富蕴县" zipcode="3472" />
+            <district name="福海县" zipcode="3473" />
+            <district name="哈巴河县" zipcode="3474" />
+            <district name="青河县" zipcode="3475" />
+            <district name="吉木乃县" zipcode="3476" />
+            <district name="其他" zipcode="3477" />
+
+        </city>
+        <city name="自治区直辖县级行政区划">
+            <district name="石河子市" zipcode="3478" />
+            <district name="阿拉尔市" zipcode="3479" />
+            <district name="图木舒克市" zipcode="3480" />
+            <district name="五家渠市" zipcode="3481" />
+            <district name="其他" zipcode="3482" />
+
+        </city>
+    </province>
+</root>

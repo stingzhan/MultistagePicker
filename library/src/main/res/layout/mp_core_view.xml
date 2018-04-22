@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@android:color/white">
+
+
+    <TextView
+        android:id="@+id/titleView"
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:textColor="#333333"
+        android:background="@drawable/mp_border_bottom"
+        android:visibility="gone"
+        tools:visibility="visible"
+        tools:text="所在地区"
+        />
+
+    <!--<FrameLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="46dp"-->
+        <!--android:background="@drawable/mp_border_bottom"-->
+        <!--android:visibility="gone"-->
+        <!--tools:visibility="visible">-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/titleView"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:textSize="16sp"-->
+            <!--android:textColor="#333333"-->
+            <!--tools:text="所在地区"-->
+            <!--/>-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/closeView"-->
+            <!--android:layout_width="46dp"-->
+            <!--android:layout_height="46dp"-->
+            <!--android:layout_gravity="end|center_vertical"-->
+            <!--android:src="@drawable/mp_ic_close"-->
+            <!--android:scaleType="center"-->
+            <!--android:contentDescription="@null"-->
+            <!--/>-->
+
+    <!--</FrameLayout>-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/mp_border_bottom">
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tab_layout"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            app:tabIndicatorColor="@color/mp_red"
+            app:tabSelectedTextColor="@color/mp_red"
+            app:tabTextColor="@color/mp_black"
+            app:tabMode="scrollable">
+
+            <android.support.design.widget.TabItem
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="请选择"
+                />
+
+        </android.support.design.widget.TabLayout>
+
+        <TextView
+            android:id="@+id/tv_btn_ok"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:gravity="center"
+            android:textSize="14sp"
+            android:textColor="@color/mp_ok_btn_text"
+            android:text="确定"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:enabled="false" />
+
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rcv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layoutManager="android.support.v7.widget.LinearLayoutManager"
+        />
+
+
+</LinearLayout>
